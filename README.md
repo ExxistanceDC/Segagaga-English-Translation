@@ -8,20 +8,26 @@ This effort simply would not have been possible without the members of the Dream
 
 So, with utmost thanks:
 
+<div align="center">
+  
 **THE DREAMCAST HACKING HEROES**
 
-- **megavolt85** (ASM hacking)
-- **MadSheep** (custom script tooling)
-- **VincentNL** (custom texture tooling)
-- **Derek “ateam” Pascarella** (ASM hacking)
+**megavolt85** (ASM hacking)</br>
+**MadSheep** (custom script tooling)</br>
+**VincentNL** (custom texture tooling)</br>
+**Derek “ateam” Pascarella** (ASM hacking)</br></div>
 
-Continuing with the rest of the Readme…no, your eyes aren’t playing tricks on you. You’re about to play Segagaga–the fun, quirky, RPG/game development simulator for Sega Dreamcast–-in *English*. And you’re in for a truly unique and special experience.
+Continuing on with the Readme...no, your eyes aren't playing tricks on you. You’re about to play Segagaga—the fun, quirky, RPG/game development simulator for Sega Dreamcast—in *English*. And you’re in for a truly unique and special experience.
 
-Segagaga was released in March of 2001 in Japan. Let’s put this into perspective. Just two months before, on January 31, 2001, SEGA had announced that they were stopping production of Dreamcast consoles, and would start developing software for competitor hardware. It was a massive announcement that made waves across the gaming industry. One of the seminal hardware titans of the past 20 years was bowing out of the hardware race. For SEGA fans, it was a sad day, and the uncertainty of what the future was going to bring lingered for a long time afterwards. (That is, until Sega started pumping out some seriously awesome games across Xbox, PS2, and GameCube–many of which are considered classics today.)
+Segagaga was released in March 2001 in Japan. Let’s put this into perspective: just two months earlier, on January 31, 2001, Sega announced that it was stopping production of Dreamcast consoles and would begin developing software for competitor hardware. It was a massive announcement that made waves across the gaming industry. One of the seminal hardware titans of the past 20 years was bowing out of the hardware race. For SEGA fans, it was a sad day, and the uncertainty about what the future would bring lingered for a long time afterward. (That is, until Sega started pumping out some seriously awesome games across the Xbox, PS2, and GameCube—many of which are considered classics today.)
 
-Thus, Segagaga was released on a console that was no longer being produced. It would never make it overseas to the North American or European markets. Most Sega fans would read about it in the gaming magazines of yesteryear (like I did), regaled with stories of a unique RPG with sim-like elements that was packed with tons of Sega references, inside jokes, and humor. 
+Thus, Segagaga was released on a console that was no longer being produced. It would never make it overseas to the North American or European markets. Most Sega fans would only read about it in gaming magazines of yesteryear (like I did), regaled with stories of a unique RPG with sim-like elements that was packed with Sega references, inside jokes, and humor. 
 
-As you’ll see, the game is everything the myth of it proclaims. It’s an earnest love letter to all things SEGA, with the player taking the role of Taro Sega in a quest to vanquish the evil Dogma, its fiendish sub-bosses, and finally put Sega at the top of the videogame industry after decades of underdog status. However, while that’s the main story thread, the game has much to say about the challenges of game development and the videogame industry which is arguably as relevant in today’s tumultuous market as it was in 2001.
+As you’ll see, the game is everything its myth proclaims. It’s an earnest love letter to all things SEGA, with the player taking the role of Taro Sega in a quest to vanquish the evil Dogma, its fiendish sub-bosses, and finally put Sega at the top of the videogame industry after decades of underdog status. While that’s the main story thread, the game also has much to say about the challenges of game development and the videogame industry—topics that are arguably as relevant in today’s tumultuous market as they were in 2001. The game leaves all involved in game development with a timeless message:
+
+<div align="center">Dreaming is humanity's last remaining privilege!</br>
+It's not truth that paves the way—it's hope!</br>
+If you forget that, you can't make games.</br></div>
 
 ## **Overview**
 This patch aims to fully translates Segagaga into English. To that end, the following changes have been made:
@@ -29,6 +35,9 @@ This patch aims to fully translates Segagaga into English. To that end, the foll
 - All in-game dialogue translated
 - All chapter dialogue translated
 - All cutscenes subtitled in English
-- End credits translated
 - All in-game UI textures redrawn in English
-- All title Screen/Options/Save/Load screens redrawn in English
+- Title Screen/Options/Save/Load screens redrawn in English
+- End credits translated
+- Game manual redrawn in faithful style to the original
+
+## **Patching Instructions**
