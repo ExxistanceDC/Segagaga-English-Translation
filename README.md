@@ -84,6 +84,7 @@ This patch aims to fully translates Segagaga into English. To that end, the foll
 
 **QA**
 - SixFortyFive
+- Exxistance
 - zeed64
 
 **Manual**
