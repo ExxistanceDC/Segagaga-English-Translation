@@ -73,7 +73,7 @@ This patch aims to fully translates Segagaga into English. To that end, the foll
 - LewisJFC
 - TeDNeo
 
-**Texture Art**
+**Textures**
 - Exxistance
 - mr.nobody
 - CWM
@@ -85,5 +85,12 @@ This patch aims to fully translates Segagaga into English. To that end, the foll
 **QA**
 - SixFortyFive
 - zeed64
+
+**Manual**
+- Exxistance
+
+**My Deepest Thanks**
+
+- 
 
   
