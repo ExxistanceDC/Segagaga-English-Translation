@@ -40,4 +40,50 @@ This patch aims to fully translates Segagaga into English. To that end, the foll
 - End credits translated
 - Game manual redrawn in faithful style to the original
 
+## **Screens**
+
+<!-- Row 1 -->
+<p>
+  <img src="Images/TAROMARU-250818-142700.png" width="500"/>
+  <img src="Images/TAROMARU-250818-142640.png" width="500"/>
+</p>
+
 ## **Patching Instructions**
+
+1. Unzip patch bundle
+2. Open xxx'**
+3. After it opens, click **xxxx**
+4. Next click **xxxxx**
+
+**--> Important! <--**
+- Tested with <kbd>Shinrei Jusatsushi Taroumaru (Japan)</kbd>
+- **DO NOT USE** "v2.0" or "Rev A". Due the cut content and changes, the patch was not designed around this version and will not work.
+
+## **Credits**
+
+**Romhacking/Tooling**
+- megavolt85
+- MadSheep
+- VincentNL
+- Derek "ateam" Pascarella
+
+**Translation | Editing**
+- Exxistance
+- LostinLoc
+- LewisJFC
+- TeDNeo
+
+**Texture Art**
+- Exxistance
+- mr.nobody
+- CWM
+
+**Videos**
+- mr.nobody
+- Exxistance
+
+**QA**
+- SixFortyFive
+- zeed64
+
+  
