@@ -31,14 +31,12 @@ If you forget that, you can't make games.</br></div>
 
 ## Table of Contents
 - [Overview](#Overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Screenshots](#Screenshots)
+- [Patching Instructions](#PatchingInstructions)
+- [Credits](#Credits)
 
 ## **Overview**
-This patch aims to fully translates Segagaga into English. To that end, the following changes have been made:
+This patch fully translates Segagaga into English. To that end, the following changes have been made:
 
 - All in-game dialogue translated
 - All chapter dialogue translated
@@ -46,9 +44,9 @@ This patch aims to fully translates Segagaga into English. To that end, the foll
 - All in-game UI textures redrawn in English
 - Title Screen/Options/Save/Load screens redrawn in English
 - End credits translated
-- Game manual redrawn in faithful style to the original
+- Original instruction manual translated and redrawn in faithful style to the original
 
-## **Screens**
+## **Screenshots**
 
 <!-- Row 1 -->
 <p>
@@ -75,19 +73,21 @@ This patch aims to fully translates Segagaga into English. To that end, the foll
 - VincentNL
 - Derek Pascarella (ateam)
 
-**Translation / Review / Editing**
+**Translation / Review**
 - Exxistance
 - LostinLoc
-- Sixfortyfive
-- LewisJFC
 - TeDNeo
 
-**Textures**
+**Editors**
+- LewisJFC
+- Sixfortyfive
+
+**Texture Artists**
 - Exxistance
 - mr.nobody
 - CWM
 
-**Videos**
+**Video Editing & Subtitling**
 - mr.nobody
 - Exxistance
 
