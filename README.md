@@ -15,7 +15,7 @@ So, with utmost thanks:
 **megavolt85** (ASM hacking)</br>
 **MadSheep** (custom script tooling)</br>
 **VincentNL** (custom texture tooling)</br>
-**Derek “ateam” Pascarella** (ASM hacking)</br></div>
+**Derek Pascarella (ateam)** (ASM hacking)</br></div>
 
 Continuing on with the Readme...no, your eyes aren't playing tricks on you. You’re about to play Segagaga—the fun, quirky, RPG/game development simulator for Sega Dreamcast—in *English*. And you’re in for a truly unique and special experience.
 
@@ -28,6 +28,14 @@ As you’ll see, the game is everything its myth proclaims. It’s an earnest lo
 <div align="center">Dreaming is humanity's last remaining privilege!</br>
 It's not truth that paves the way—it's hope!</br>
 If you forget that, you can't make games.</br></div>
+
+## Table of Contents
+- [Overview](#Overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 ## **Overview**
 This patch aims to fully translates Segagaga into English. To that end, the following changes have been made:
@@ -61,15 +69,16 @@ This patch aims to fully translates Segagaga into English. To that end, the foll
 
 ## **Credits**
 
-**Romhacking/Tooling**
+**Romhacking / Tooling**
 - megavolt85
 - MadSheep
 - VincentNL
-- Derek "ateam" Pascarella
+- Derek Pascarella (ateam)
 
-**Translation | Editing**
+**Translation / Review / Editing**
 - Exxistance
 - LostinLoc
+- Sixfortyfive
 - LewisJFC
 - TeDNeo
 
@@ -83,7 +92,7 @@ This patch aims to fully translates Segagaga into English. To that end, the foll
 - Exxistance
 
 **QA**
-- SixFortyFive
+- Sixfortyfive
 - Exxistance
 - zeed64
 
@@ -92,6 +101,7 @@ This patch aims to fully translates Segagaga into English. To that end, the foll
 
 **My Deepest Thanks**
 
+-
 - 
 
   
