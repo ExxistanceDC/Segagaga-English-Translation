@@ -38,16 +38,14 @@ If you forget that, you can't make games.</br></div>
 - [Messages From the Team](#Messages-From-the-Team)
 
 ## **Overview**
-This patch fully translates Segagaga into English. Our aim was to produce a faithful translation to both the source text as well as to the original art. Care and attention has been paid to even small details like matching the st
-
-To that end, the following changes have been made:
+This patch fully translates Segagaga into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even small the smallest details--for example, matching the stroke width of the original lettering. With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're working for SoJ rather than SoA. Certain things will remain in Japanese, such as item textures. Generally, though, while you may be reading English as you play, assume that Taro and most of the characters are Japanese.
 
 - All in-game dialogue translated
 - All chapter dialogue translated
 - All cutscenes subtitled in English
+- End credits translated
 - All in-game UI textures redrawn in English
 - Title Screen/Options/Save/Load screens redrawn in English
-- End credits translated
 - Original instruction manual translated and redrawn in faithful style to the original
 
 ## **Screenshots**
@@ -120,8 +118,10 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
 
 **My Deepest Thanks**
 
--
-- 
+- My SGGG teammates: seriously, you all are amazing and it has been a joy to work with you!
+- Tez Okano and the original development team (for putting your heart and soul into a unique experience that has entranced a fanbase for 25 years.) 
+- The Price of Reason: who doesn’t know me at all, but whose dedication to the Samurai Shodown RPG translation shows that passion and willpower can make all the difference in a project. Thank you for bringing SSRPG to English and fulfilling a 20+ year dream of mine to play it.)
+
 
 ## **Messages From the Team**
 
