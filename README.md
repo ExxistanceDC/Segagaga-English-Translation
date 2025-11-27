@@ -38,7 +38,9 @@ If you forget that, you can't make games.</br></div>
 - [Messages From the Team](#Messages-From-the-Team)
 
 ## **Overview**
-This patch fully translates Segagaga into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even small the smallest details--for example, matching the stroke width of the original lettering. With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're working for SoJ rather than SoA. Certain things will remain in Japanese, such as item textures. Generally, though, while you may be reading English as you play, assume that Taro and most of the characters are Japanese.
+This patch fully translates Segagaga into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even small the smallest details--for example, matching the stroke width of the original lettering. With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're helping Taro Sega work for SoJ rather than SoA. Certain things will remain in Japanese, such as item textures. Generally, though, while you may be reading English as you play, assume that Taro and most of the characters are Japanese. You'll encounter many things that are specific to Japanese culture, and so rather than forcing those into Western concepts, we've translated them as-is. Use it as an opportunity to learn...afterall, unlike the 90s, there's a whole internet available (and hours and hours of video content) to you to learn about something you may see in the game. Enjoy the experience!
+
+All that said, the following changes have made been to bring the game to English speakers:
 
 - All in-game dialogue translated
 - All chapter dialogue translated
