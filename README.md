@@ -35,6 +35,7 @@ If you forget that, you can't make games.</br></div>
 - [Patching Instructions](#Patching-Instructions)
 - [Known Issues](#Known-Issues)
 - [Credits](#Credits)
+- [Messages From the Team](Messages-From-the-Team)
 
 ## **Overview**
 This patch fully translates Segagaga into English. To that end, the following changes have been made:
@@ -68,7 +69,7 @@ This patch fully translates Segagaga into English. To that end, the following ch
 
 ## **Known Issues**
 
-
+At this time, the only known issue is the spacing of the bluff (aka magic spells) cost in the Battle Mode bluff menu. You will notice that the numbers are a bit wider than the Bluff name, and once they get to double-digits, they are indented farther in than the single-digit spell costs. We're still trying to hunt down a way to fix this, but it isn't game-breaking.
 
 ## **Credits**
 
@@ -109,4 +110,4 @@ This patch fully translates Segagaga into English. To that end, the following ch
 -
 - 
 
-  
+## **Messages From the Team**
