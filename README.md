@@ -119,9 +119,8 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
 **My Deepest Thanks**
 
 - My SGGG teammates: seriously, you all are amazing and it has been a joy to work with you!
-- Tez Okano and the original development team (for putting your heart and soul into a unique experience that has entranced a fanbase for 25 years.) 
-- The Price of Reason: who doesn’t know me at all, but whose dedication to the Samurai Shodown RPG translation shows that passion and willpower can make all the difference in a project. Thank you for bringing SSRPG to English and fulfilling a 20+ year dream of mine to play it.)
-
+- Tez Okano and the original development team (for putting your heart and soul into making a unique game that has entranced a fanbase for 25 years.) 
+- The Price of Reason (who doesn’t know me at all, but whose dedication to the Samurai Shodown RPG translation shows that passion and willpower can make all the difference in a project. Thank you for bringing SSRPG to English and fulfilling a 20+ year dream of mine to play it.)
 
 ## **Messages From the Team**
 
