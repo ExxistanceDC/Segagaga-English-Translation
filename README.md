@@ -38,7 +38,9 @@ If you forget that, you can't make games.</br></div>
 - [Messages From the Team](#Messages-From-the-Team)
 
 ## **Overview**
-This patch fully translates Segagaga into English. To that end, the following changes have been made:
+This patch fully translates Segagaga into English. Our aim was to produce a faithful translation to both the source text as well as to the original art. Care and attention has been paid to even small details like matching the st
+
+To that end, the following changes have been made:
 
 - All in-game dialogue translated
 - All chapter dialogue translated
@@ -58,14 +60,21 @@ This patch fully translates Segagaga into English. To that end, the following ch
 
 ## **Patching Instructions**
 
+Grab your SGGG GDIs off the shelf! The patch is offered in two flavors: a Universal Dreamcast Patcher .DCP file and an xdelta .xdelta file. 
+
 ### Option 1: Universal Dreamcast Patcher
 
-1. Unzip patch bundle
-2. Open xxx'**
-3. After it opens, click **xxxx**
-4. Next click **xxxxx**
 
-### Option 2: Xdelta
+
+
+
+1. Download [Universal Dreamcast Patcher](https://github.com/DerekPascarella/UniversalDreamcastPatcher) (if you don't already have it)
+2. Unzip patch bundle
+3. Open xxx'**
+4. After it opens, click **xxxx**
+5. Next click **xxxxx**
+
+### Option 2: xdelta
 
 **--> Important! <--**
 - Tested with <kbd>SGGG - Segagaga v1.022 (2001)(Sega)(JP)(!)</kbd> and <kbd>SGGG - Segagaga (Japan)</kbd>
@@ -115,3 +124,7 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
 - 
 
 ## **Messages From the Team**
+
+**Exxistance**
+> Test
+
