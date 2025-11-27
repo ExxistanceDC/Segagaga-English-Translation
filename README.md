@@ -32,7 +32,8 @@ If you forget that, you can't make games.</br></div>
 ## Table of Contents
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
-- [Patching Instructions](#PatchingInstructions)
+- [Patching Instructions](#Patching_Instructions)
+- [Known Issues](#Known_Issues)
 - [Credits](#Credits)
 
 ## **Overview**
@@ -62,8 +63,12 @@ This patch fully translates Segagaga into English. To that end, the following ch
 4. Next click **xxxxx**
 
 **--> Important! <--**
-- Tested with <kbd>Shinrei Jusatsushi Taroumaru (Japan)</kbd>
+- Tested with <kbd>SGGG - Segagaga v1.022 (2001)(Sega)(JP)(!)</kbd> and 
 - **DO NOT USE** "v2.0" or "Rev A". Due the cut content and changes, the patch was not designed around this version and will not work.
+
+## **Known Issues**
+
+
 
 ## **Credits**
 
