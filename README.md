@@ -47,6 +47,9 @@ This patch fully translates Segagaga into English. To that end, the following ch
 - Title Screen/Options/Save/Load screens redrawn in English
 - End credits translated
 - Original instruction manual translated and redrawn in faithful style to the original
+- Two patching options are provided:
+  - .DCP for use with Universal Dreamcast Patcher
+  - Xdelta, for anyone who cannot use the above
 
 ## **Screenshots**
 
@@ -58,14 +61,18 @@ This patch fully translates Segagaga into English. To that end, the following ch
 
 ## **Patching Instructions**
 
+### Option 1: Universal Dreamcast Patcher
+
 1. Unzip patch bundle
 2. Open xxx'**
 3. After it opens, click **xxxx**
 4. Next click **xxxxx**
 
+### Option 2: Xdelta
+
 **--> Important! <--**
 - Tested with <kbd>SGGG - Segagaga v1.022 (2001)(Sega)(JP)(!)</kbd> and <kbd>SGGG - Segagaga (Japan)</kbd>
-- **DO NOT USE** "v2.000" or "Rev A". Due to cut content and minor changes, the patch was ONLY designed around v1.022 and will NOT work with v2.000.
+- **DO NOT USE** "v2.000" or "Rev A". Due to cut content and minor changes, the patch was designed around v1.022 and will NOT work with v2.000.
 
 ## **Known Issues**
 
