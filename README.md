@@ -35,7 +35,7 @@ If you forget that, you can't make games.</br></div>
 - [Patching Instructions](#Patching-Instructions)
 - [Known Issues](#Known-Issues)
 - [Credits](#Credits)
-- [Messages From the Team](Messages-From-the-Team)
+- [Messages From the Team](#Messages-From-the-Team)
 
 ## **Overview**
 This patch fully translates Segagaga into English. To that end, the following changes have been made:
@@ -47,9 +47,6 @@ This patch fully translates Segagaga into English. To that end, the following ch
 - Title Screen/Options/Save/Load screens redrawn in English
 - End credits translated
 - Original instruction manual translated and redrawn in faithful style to the original
-- Two patching options are provided:
-  - .DCP for use with Universal Dreamcast Patcher
-  - Xdelta, for anyone who cannot use the above
 
 ## **Screenshots**
 
@@ -76,7 +73,7 @@ This patch fully translates Segagaga into English. To that end, the following ch
 
 ## **Known Issues**
 
-At this time, the only known issue is the spacing of the bluff (aka magic spells) cost in the Battle Mode bluff menu. You will notice that the numbers are a bit wider than the Bluff name, and once they get to double-digits, they are indented farther in than the single-digit spell costs. We're still trying to hunt down a way to fix this, but it isn't game-breaking.
+At this time, the only known issue is the spacing of the bluff (aka magic spells) cost in the Battle Mode bluff menu. You will notice that the numbers are a bit wider than the bluff name, and once they get to double-digits, they are indented farther in than the single-digit spell costs. We're still trying to hunt down a way to fix this, but it isn't game-breaking.
 
 ## **Credits**
 
