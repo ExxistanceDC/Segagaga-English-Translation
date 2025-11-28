@@ -48,6 +48,7 @@ All that said, the following changes have made been to bring the game to English
 - End credits translated
 - All in-game UI textures redrawn in English
 - Title Screen/Options/Save/Load screens redrawn in English
+- All VMU save and application metadata translated in Dreamcast's BIOS menu save manager.
 - Original instruction manual translated and redrawn in faithful style to the original
 
 ## **Screenshots**
