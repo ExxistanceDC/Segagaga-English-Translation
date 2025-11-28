@@ -1,6 +1,6 @@
 #### The SGGG 25th Anniversary Translation Team proudly presents:
 
-# **SEGAGAGA English Translation Patch**
+# **Segagaga English Translation Patch**
 
 Before we dive into the rest of the README, we must start with a word of thanks.
 
@@ -76,11 +76,11 @@ All that said, the following changes have made been to bring the game to English
   </tr>
   <tr>
     <td><strong>Localized Title</strong></td>
-    <td>SEGAGAGA</td>
+    <td>Segagaga</td>
   </tr>
   <tr>
     <td><strong>Developer</strong></td>
-    <td>Hitmaker / Thunderstone, Japan</td>
+    <td>Hitmaker Co., Ltd. / Thunder Stone Japan, Inc.</td>
   </tr>
   <tr>
     <td><strong>Publisher</strong></td>
@@ -126,10 +126,20 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
 
 ## **Extras**
 
+
+
+
+## **Helpful Tips & Resources**
+
+- Segagaga is meant to be played multiple times. I suggest just enjoying the experience your first time through. You likely won't get to the later chapters in your first playthrough; the game encourages you to develop more games to boost market share before they open up.
+- Similarly, don't expect to unlock all Archive materials in your first playthrough. If you hit 100% market share, a special mode opens up that will help you complete the Archives.
+
+Below are some resources that may assist you as you play through Segagaga:
+
 <table>
   <tr>
-    <td><strong>SGGG Perfect Guide</strong></td>
-    <td>kdsaljflk;sdjflksdjflaksdjf</td>
+    <td><strong><a href=https://archive.org/details/sggg-segagaga-perfect-file>SGGG Perfect Guide</a></strong></td>
+    <td>Contains a walkthrough of the game, stats, developer interviews and insights, pre-production art, and more.</td>
   </tr>
   <tr>
     <td><strong>Localized Title</strong></td>
@@ -137,12 +147,6 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
   </tr>  
 </table>
 
-https://archive.org/details/sggg-segagaga-perfect-file
-
-## **Helpful Tips**
-
-- SEGAGAGA is meant to be played multiple times. I suggest just enjoying the experience your first time through. You likely won't get to the later chapters in your first playthrough; the game encourages you to develop more games to boost market share before they open up.
-- Similarly, don't expect to unlock all Archive materials in your first playthrough. If you hit 100% market share, a special mode opens up that will help you complete the Archives.
 
 ## **Credits**
 
