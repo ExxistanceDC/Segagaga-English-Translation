@@ -1,4 +1,4 @@
-#### The SGGG 25th Anniversary Team proudly presents:
+#### The SGGG 25th Anniversary Translation Team proudly presents:
 
 # **SEGAGAGA English Translation Patch**
 
@@ -10,7 +10,7 @@ So, with utmost thanks:
 
 <div align="center">
   
-**THE DREAMCAST HACKING HEROES**
+**DREAMCAST HACKING HEROES**
 
 **megavolt85** (ASM hacking)</br>
 **MadSheep** (custom script tooling)</br>
@@ -38,7 +38,13 @@ If you forget that, you can't make games.</br></div>
 - [Messages From the Team](#Messages-From-the-Team)
 
 ## **Overview**
-This patch fully translates Segagaga into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even small the smallest details--for example, matching the stroke width of the original lettering. With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're helping Taro Sega work for SoJ rather than SoA. Certain things will remain in Japanese, such as item textures. Generally, though, while you may be reading English as you play, assume that Taro and most of the characters are Japanese. You'll encounter many things that are specific to Japanese culture, and so rather than forcing those into Western concepts, we've translated them as-is. Use it as an opportunity to learn...afterall, unlike the 90s, there's a whole internet available (and hours and hours of video content) to you to learn about something you may see in the game. Enjoy the experience!
+This patch fully translates Segagaga into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even the smallest details—for example, matching the stroke width of the original lettering in textures.
+
+With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're helping Taro Sega work for SoJ rather than SoA. Certain things will remain in Japanese, such as small item textures. Generally, though, while *you* may be reading English as you play, Taro and most of the characters are Japanese.
+
+You'll encounter many things that are specific to Japanese culture, so rather than forcing those into Western concepts, we've translated them as-is. Use it as an opportunity to learn... after all, unlike the ’90s, there's a whole internet available (and hours and hours of video content) for you to learn about something you may see in the game.
+
+Enjoy the experience!
 
 All that said, the following changes have made been to bring the game to English speakers:
 
@@ -48,7 +54,9 @@ All that said, the following changes have made been to bring the game to English
 - End credits translated
 - All in-game UI textures redrawn in English
 - Title Screen/Options/Save/Load screens redrawn in English
-- All VMU save and application metadata translated in Dreamcast's BIOS menu save manager.
+- All VMU save and application metadata translated in Dreamcast's BIOS menu save manager
+- 25th Anniversary celebration added to opening splash screen
+- New 25th Anniversary VMU icon during gameplay- 
 - Original instruction manual translated and redrawn in faithful style to the original
 
 ## **Screenshots**
@@ -59,9 +67,46 @@ All that said, the following changes have made been to bring the game to English
   <img src="Images/TAROMARU-250818-142640.png" width="500"/>
 </p>
 
+## **About the Game**
+
+<table>
+  <tr>
+    <td><strong>Original Title</strong></td>
+    <td>Segagaga (セガガガ) (SGGG)</td>
+  </tr>
+  <tr>
+    <td><strong>Localized Title</strong></td>
+    <td>SEGAGAGA</td>
+  </tr>
+  <tr>
+    <td><strong>Developer</strong></td>
+    <td>Hitmaker / Thunderstone, Japan</td>
+  </tr>
+  <tr>
+    <td><strong>Publisher</strong></td>
+    <td>SEGA</td>
+  </tr>
+    <tr>
+    <td><strong>Original Release Date</strong></td>
+    <td>2001-03-29</td>
+  </tr>
+  <tr>
+    <td><strong>Supported Peripherals</strong></td>
+    <td>VGA Box, Controller, VMU</td>
+  </tr>
+  <tr>
+    <td><strong>Average Time to Completion</strong></td>
+    <td>12 hours</td>
+  </tr>
+</table>
+
+
+
+
+
 ## **Patching Instructions**
 
-Grab your SGGG GDIs off the shelf! The patch is offered in two flavors: a Universal Dreamcast Patcher .DCP file and an xdelta .xdelta file. 
+Grab your original SGGG discs off the shelf! The patch is offered in two flavors: a Universal Dreamcast Patcher .DCP file and an xdelta .xdelta file. 
 
 ### Option 1: Universal Dreamcast Patcher
 
@@ -84,6 +129,10 @@ Grab your SGGG GDIs off the shelf! The patch is offered in two flavors: a Univer
 ## **Known Issues**
 
 At this time, the only known issue is the spacing of the bluff (aka magic spells) cost in the Battle Mode bluff menu. You will notice that the numbers are a bit wider than the bluff name, and once they get to double-digits, they are indented farther in than the single-digit spell costs. We're still trying to hunt down a way to fix this, but it isn't game-breaking.
+
+
+
+## **Helpful Tips**
 
 ## **Credits**
 
