@@ -69,7 +69,7 @@ All that said, the following changes have made been to bring the game to English
 
 ## **About the Game**
 
-<table>
+<table width="100%">
   <tr>
     <td><strong>Original Title</strong></td>
     <td>Segagaga (セガガガ) (SGGG)</td>
