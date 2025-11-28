@@ -40,9 +40,9 @@ If you forget that, you can't make games.</br></div>
 ## **Overview**
 This patch fully translates Segagaga into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even the smallest details—for example, matching the stroke width of the original lettering in textures.
 
-With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're helping Taro Sega work for SoJ rather than SoA. Certain things will remain in Japanese, such as small item textures. Generally, though, while *you* may be reading English as you play, Taro and most of the characters are Japanese.
+With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're helping Taro Sega work for SoJ rather than SoA. Thus, certain things remain in Japanese, like small item textures, or the background signage in Akihabara. Generally, though, while *you* may be reading English as you play, Taro and most of the characters are Japanese.
 
-You'll encounter many things that are specific to Japanese culture, so rather than forcing those into Western concepts, we've translated them as-is. Use it as an opportunity to learn... after all, unlike the ’90s, there's a whole internet available (and hours and hours of video content) for you to learn about something you may see in the game.
+You'll encounter many things that are specific to Japanese culture, so rather than shoehorning those into Western concepts, we've translated them as-is. Use it as an opportunity to learn... after all, unlike the ’90s, there's a whole internet available (and hours and hours of video content) for you to learn about something you may see in the game.
 
 Enjoy the experience!
 
@@ -92,7 +92,7 @@ All that said, the following changes have made been to bring the game to English
   </tr>
   <tr>
     <td><strong>Supported Peripherals</strong></td>
-    <td>VGA Box, Controller, VMU</td>
+    <td>Controller, VMU, VGA Box</td>
   </tr>
   <tr>
     <td><strong>Average Time to Completion</strong></td>
@@ -109,10 +109,6 @@ All that said, the following changes have made been to bring the game to English
 Grab your original SGGG discs off the shelf! The patch is offered in two flavors: a Universal Dreamcast Patcher .DCP file and an xdelta .xdelta file. 
 
 ### Option 1: Universal Dreamcast Patcher
-
-
-
-
 
 1. Download [Universal Dreamcast Patcher](https://github.com/DerekPascarella/UniversalDreamcastPatcher) (if you don't already have it)
 2. Unzip patch bundle
@@ -174,7 +170,7 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
 **My Deepest Thanks**
 
 - My SGGG teammates: seriously, you all are amazing and it has been a joy to work with you!
-- Tez Okano and the original development team (for putting your heart and soul into making a unique game that has entranced a fanbase for 25 years.) 
+- Tez Okano and the original development team (for putting your heart, soul, and time into making a unique game that has entranced a fanbase for 25 years.) 
 - The Price of Reason (who doesn’t know me at all, but whose dedication to the Samurai Shodown RPG translation shows that passion and willpower can make all the difference in a project. Thank you for bringing SSRPG to English and fulfilling a 20+ year dream of mine to play it.)
 
 ## **Messages From the Team**
