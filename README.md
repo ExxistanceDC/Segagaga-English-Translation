@@ -17,7 +17,7 @@ So, with utmost thanks:
 **VincentNL** (custom texture tooling)</br>
 **Derek Pascarella (ateam)** (ASM hacking)</br></div>
 
-Continuing on with the Readme...no, your eyes aren't playing tricks on you. You’re about to play Segagaga—the fun, quirky, RPG/game development simulator for Sega Dreamcast—in *English*. And you’re in for a truly unique and special experience.
+Continuing on with the README...no, your eyes aren't playing tricks on you. You’re about to play Segagaga—the fun, quirky, RPG/game development simulator for Sega Dreamcast—in *English*. And you’re in for a truly unique and special experience.
 
 Segagaga was released in March 2001 in Japan. Let’s put this into perspective: just two months earlier, on January 31, 2001, Sega announced that it was stopping production of Dreamcast consoles and would begin developing software for competitor hardware. It was a massive announcement that made waves across the gaming industry. One of the seminal hardware titans of the past 20 years was bowing out of the hardware race. For SEGA fans, it was a sad day, and the uncertainty about what the future would bring lingered for a long time afterward. (That is, until Sega started pumping out some seriously awesome games across the Xbox, PS2, and GameCube—many of which are considered classics today.)
 
@@ -44,7 +44,7 @@ With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilit
 
 You'll encounter many things that are specific to Japanese culture, so rather than shoehorning those into Western concepts, we've translated them as-is. Use it as an opportunity to learn... after all, unlike the ’90s, there's a whole internet available (and hours and hours of video content) for you to learn about something you may see in the game.
 
-Enjoy the experience!
+Savor the experience!
 
 All that said, the following changes have made been to bring the game to English speakers:
 
