@@ -69,7 +69,7 @@ All that said, the following changes have made been to bring the game to English
 
 ## **About the Game**
 
-<table width:"100%">
+<table>
   <tr>
     <td><strong>Original Title</strong></td>
     <td>Segagaga (セガガガ) (SGGG)</td>
@@ -124,7 +124,20 @@ Grab your original SGGG discs off the shelf! The patch is offered in two flavors
 
 At this time, the only known issue is the spacing of the bluff (aka magic spells) cost in the Battle Mode bluff menu. You will notice that the numbers are a bit wider than the bluff name, and once they get to double-digits, they are indented farther in than the single-digit spell costs. We're still trying to hunt down a way to fix this, but it isn't game-breaking.
 
+## **Extras**
 
+<table>
+  <tr>
+    <td><strong>SGGG Perfect Guide</strong></td>
+    <td>kdsaljflk;sdjflksdjflaksdjf</td>
+  </tr>
+  <tr>
+    <td><strong>Localized Title</strong></td>
+    <td>SEGAGAGA</td>
+  </tr>  
+</table>
+
+https://archive.org/details/sggg-segagaga-perfect-file
 
 ## **Helpful Tips**
 
