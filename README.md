@@ -2,7 +2,7 @@
 
 # **SEGAGAGA English Translation Patch**
 
-Before we dive into the rest of the ReadMe, we must start with a word of thanks.
+Before we dive into the rest of the README, we must start with a word of thanks.
 
 This effort simply would not have been possible without the members of the Dreamcast-Talk community that started tackling the various technical challenges in 2022. It was they who hacked the main binary, allowing it to leverage ASCII and use the Dreamcast BIOS font, built tools for extracting & re-compressing the textures, built tools for easy text reinsertion, and basically paved the way for a monkey like me to spend my days drawing, translating, and playtesting.
 
@@ -128,7 +128,7 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
 
 ## **Helpful Tips**
 
-- SEGAGAGA is meant to be played multiple times. I suggest just enjoying the experience your first time through. You likely won't get to the later chapters in your first playthrough; the game encourages you to develop more games to boost marketshare before they open up.
+- SEGAGAGA is meant to be played multiple times. I suggest just enjoying the experience your first time through. You likely won't get to the later chapters in your first playthrough; the game encourages you to develop more games to boost market share before they open up.
 - Similarly, don't expect to unlock all Archive materials in your first playthrough. If you hit 100% market share, a special mode opens up that will help you complete the Archives.
 
 ## **Credits**
