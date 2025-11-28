@@ -69,7 +69,7 @@ All that said, the following changes have made been to bring the game to English
 
 ## **About the Game**
 
-<table width="100%">
+<table width:"100%">
   <tr>
     <td><strong>Original Title</strong></td>
     <td>Segagaga (セガガガ) (SGGG)</td>
@@ -99,8 +99,6 @@ All that said, the following changes have made been to bring the game to English
     <td>12 hours</td>
   </tr>
 </table>
-
-
 
 
 
