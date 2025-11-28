@@ -56,7 +56,7 @@ All that said, the following changes have made been to bring the game to English
 - Title Screen/Options/Save/Load screens redrawn in English
 - All VMU save and application metadata translated in Dreamcast's BIOS menu save manager
 - 25th Anniversary celebration added to opening splash screen
-- New 25th Anniversary VMU icon during gameplay- 
+- New 25th Anniversary VMU icon during gameplay
 - Original instruction manual translated and redrawn in faithful style to the original
 
 ## **Screenshots**
@@ -133,6 +133,9 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
 
 
 ## **Helpful Tips**
+
+- SEGAGAGA is meant to be played multiple times. I suggest just enjoying the experience your first time through. You likely won't get to the later chapters in your first playthrough; the game encourages you to develop more games to boost marketshare before they open up.
+- Similarly, don't expect to unlock all Archive materials in your first playthrough. If you hit 100% market share, a special mode opens up that will help you complete the Archives.
 
 ## **Credits**
 
