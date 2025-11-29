@@ -130,6 +130,8 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
 
 ## **Helpful Tips & Resources**
 
+### **Helpful Tips (courtesy of Sixfortyfive)**
+
  - Segagaga has multiple endings and a lot of unlockable archive content that's impossible to acquire in a single playthrough. If you intend to see all of it, then expect to play through the game multiple times. If you're not a completionist but do want to see the true ending, then you'll need to acquire 100% market share.
 - On your first playthrough, don't stress yourself too much when it comes to acquiring 100% market share. It is possible to achieve, but doing so requires a fair bit of knowledge of how the simulation works, which isn't likely to be quickly mastered by a first-time player. Just enjoy the story and experiment a bit in the game dev simulation to learn what you can, then apply what you learn on a subsequent playthrough if you want to try again for 100%.
 - The most important thing to focus on for the first play is to simply keep the company afloat. Make sure that you don't completely run out of money and that your market share never drops all the way to 0%. If you can just survive the three-year SGGG project cycle, then it counts as a "clear," and successfully clearing the game will grant you extra money and other perks on your next playthrough, which will make achieving 100% share much easier.
