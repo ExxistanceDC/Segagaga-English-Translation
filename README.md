@@ -148,7 +148,7 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
   </tr>
   <tr>
     <td><strong><a href=https://www.huga-studio.com/>HUGA Studio</a></strong></td>
-    <td>If you love the vibe of SEGAGAGA, be sure to check out more of producer Tez Okana's work at his newest venture, HUGA Studio.</td>
+    <td>If you love the vibe of SEGAGAGA, be sure to check out more of producer Tez Okano's work at his newest venture, HUGA Studio.    <br>His latest game, <a href=https://store.steampowered.com/app/3473890/THE_GIRL_FROM_GUNMA_Kai/>The Girl from GUNMA Kai</a>, is a love letter to SHMUPS and the MSX!</td>
   </tr>
 </table>
 
