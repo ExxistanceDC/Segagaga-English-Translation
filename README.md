@@ -33,9 +33,9 @@ If you forget that, you can't make games.</br></div>
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
 - [Patching Instructions](#Patching-Instructions)
-- [Helpful Tips](#Helpful-Tips-Resources)
+- [Helpful Tips & Resources](#helpful-tips--resources)
 - [Known Issues](#Known-Issues)
-- [Credits](#Credits)
+- [Team Credits](#Team-Credits)
 - [Messages From the Team](#Messages-From-the-Team)
 
 ## **Overview**
@@ -165,7 +165,7 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
   </tr>
 </table>
 
-## **Credits**
+## **Team Credits**
 
 **Romhacking / Tooling**
 - megavolt85
