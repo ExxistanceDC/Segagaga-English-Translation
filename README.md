@@ -97,7 +97,7 @@ With that said, the following changes have made been to bring the game to Englis
   </tr>
   <tr>
     <td><strong>Average Time to Completion</strong></td>
-    <td>15 hours-ish</td>
+    <td>15 hours-ish (Main Story)</td>
   </tr>
 </table>
 
