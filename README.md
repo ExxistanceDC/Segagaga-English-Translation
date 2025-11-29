@@ -33,6 +33,7 @@ If you forget that, you can't make games.</br></div>
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
 - [Patching Instructions](#Patching-Instructions)
+- [Helpful Tips](#Helpful-Tips-Resources)
 - [Known Issues](#Known-Issues)
 - [Credits](#Credits)
 - [Messages From the Team](#Messages-From-the-Team)
