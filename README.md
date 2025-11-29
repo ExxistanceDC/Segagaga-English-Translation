@@ -140,7 +140,7 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
 <table>
   <tr>
     <td><strong><a href=https://archive.org/details/sggg-segagaga-perfect-file>SGGG Perfect Guide</a></strong></td>
-    <td>Contains a walkthrough of the game, stats, developer interviews and insights, pre-production art, and more.</td>
+    <td>Contains a walkthrough of the game, enemy stats, developer interviews and insights, pre-production art, reference explanations, and more.</td>
   </tr>
   <tr>
     <td><strong><a href=https://tcrf.net/Segagaga>SEGAGAGA TCRF Entry</strong></td>
