@@ -167,15 +167,18 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
 
 ## **Team Credits**
 
+**Project Lead**
+- Exxistance
+
 **Romhacking / Tooling**
 - megavolt85
 - MadSheep
-- VincentNL
-- Derek Pascarella (ateam)
+- <a href=https://www.patreon.com/VincentNL>VincentNL</a>
+- <a href=https://dreamcastforever.com/>Derek Pascarella (ateam)</a>
 
 **Translation / Review**
 - Exxistance
-- LostinLoc
+- <a href=https://lostinlocalization.com/>LostinLoc</a>
 - TeDNeo
 
 **Editors**
@@ -196,7 +199,7 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
 - Exxistance
 - zeed64
 
-**Manual**
+**Manual Recreation**
 - Exxistance
 
 **My Deepest Thanks**
