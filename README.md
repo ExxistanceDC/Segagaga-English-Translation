@@ -19,11 +19,11 @@ So, with utmost thanks:
 
 Continuing on with the README...no, your eyes aren't playing tricks on you. You’re about to play SEGAGAGA—the fun, quirky, RPG/game development simulator for Sega Dreamcast—in *English*. And you’re in for a truly unique and special experience.
 
-SEGAGAGA was released in March 2001 in Japan. Let’s put this into perspective: just two months earlier, on January 31, 2001, Sega announced that it was stopping production of Dreamcast consoles and would begin developing software for competitor hardware. It was a massive announcement that made waves across the gaming industry. One of the seminal hardware titans of the past 20 years was bowing out of the hardware race. For SEGA fans, it was a sad day, and the uncertainty about what the future would bring lingered for a long time afterward. (That is, until SEGA started pumping out some seriously awesome games across the Xbox, PS2, and GameCube—many of which are considered classics today.)
+SEGAGAGA was released in March 2001 in Japan. Let’s put this into perspective: just two months earlier, on January 31, 2001, SEGA announced that it was stopping production of Dreamcast consoles and would begin developing software for competitor hardware. It was a massive announcement that made waves across the gaming industry. One of the seminal hardware titans of the past 20 years was bowing out of the hardware race. For SEGA fans, it was a sad day, and the uncertainty about what the future would bring lingered for a long time afterward. (That is, until SEGA started pumping out some seriously awesome games across the Xbox, PS2, and GameCube—many of which are considered classics today.)
 
-Thus, SEGAGAGA was released on a console that was no longer being produced. It would never make it overseas to the North American or European markets. Most Sega fans would only read about it in gaming magazines of yesteryear (like I did), regaled with stories of a unique RPG with sim-like elements that was packed with SEGA references, inside jokes, and humor. 
+Thus, SEGAGAGA was released on a console that was no longer being produced. It would never make it overseas to the North American or European markets. Most SEGA fans would only read about it in gaming magazines of yesteryear (like I did), regaled with stories of a unique RPG with sim-like elements that was packed with SEGA references, inside jokes, and humor. 
 
-As you’ll see, the game is everything its myth proclaims. It’s an earnest love letter to all things SEGA, with the player taking the role of Taro Sega in a quest to vanquish the evil Dogma, its fiendish sub-bosses, and finally put SEGA at the top of the videogame industry after decades of underdog status. While that’s the main story thread, the game also has much to say about the challenges of game development and the videogame industry—topics that are arguably as relevant in today’s tumultuous market as they were in 2001. The game leaves all involved in game development with a timeless message:
+As you’ll see, the game is everything its myth proclaims. It’s an earnest love letter to all things SEGA, with the player taking the role of Taro Sega in a quest to vanquish the evil Dogma, its fiendish sub-bosses, and finally put SEGA at the top of the videogame industry after decades of underdog status. While that is the main story thread, the game also has much to say about the challenges of game development and the videogame industry—topics that are arguably as relevant in today’s tumultuous market as they were in 2001. The game leaves all involved in game development with a timeless message:
 
 <div align="center">Dreaming is humanity's last remaining privilege!</br>
 It's not truth that paves the way—it's hope!</br>
@@ -40,13 +40,13 @@ If you forget that, you can't make games.</br></div>
 ## **Overview**
 This patch fully translates SEGAGAGA into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even the smallest details—for example, matching the stroke width of the original lettering in textures.
 
-With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're helping Taro Sega work for SoJ rather than SoA. Thus, certain things remain in Japanese, like small item textures, or the background billboards in Akihabara. Generally, though, while *you* may be reading English as you play, Taro and most of the characters are Japanese.
+With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're guiding Taro Sega through his daily life at SoJ and not SoA. Thus, certain things remain in Japanese, like small item textures, or the background billboards in Akihabara. Generally, though, while *you* may be reading English as you play, Taro and most of the characters are Japanese.
 
-You'll encounter many things that are specific to Japanese culture, so rather than shoehorning those into Western concepts, we've translated them as-is. Use it as an opportunity to learn... after all, unlike the ’90s, there's a whole internet available (and hours and hours of video content) for you to learn about something you may see in the game.
+You'll encounter many things that are specific to Japanese culture, so rather than shoehorning those into Western concepts, we've translated them as-is. Use it as an opportunity to learn...after all, there's a whole wide internet out there (and hours and hours of video content) for you to learn about topics you may come across in the game.
 
 Savor the experience!
 
-All that said, the following changes have made been to bring the game to English speakers:
+With that said, the following changes have made been to bring the game to English speakers:
 
 - All in-game dialogue translated
 - All chapter dialogue translated
@@ -100,8 +100,6 @@ All that said, the following changes have made been to bring the game to English
   </tr>
 </table>
 
-
-
 ## **Patching Instructions**
 
 Grab your original SGGG discs off the shelf! The patch is offered in two flavors: a Universal Dreamcast Patcher .DCP file and an xdelta .xdelta file. 
@@ -131,9 +129,10 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
 
 ## **Helpful Tips & Resources**
 
-- SEGAGAGA is meant to be played multiple times. I suggest just enjoying the experience your first time through. You likely won't get to the later chapters in your first playthrough; the game encourages you to develop more games to boost market share before they open up.
-- Similarly, don't expect to unlock all Archive materials in your first playthrough. If you hit 100% market share, a special mode opens up that will help you complete the Archives.
-
+ - Segagaga has multiple endings and a lot of unlockable archive content that's impossible to acquire in a single playthrough. If you intend to see all of it, then expect to play through the game multiple times. If you're not a completionist but do want to see the true ending, then you'll need to acquire 100% market share.
+- On your first playthrough, don't stress yourself too much when it comes to acquiring 100% market share. It is possible to achieve, but doing so requires a fair bit of knowledge of how the simulation works, which isn't likely to be quickly mastered by a first-time player. Just enjoy the story and experiment a bit in the game dev simulation to learn what you can, then apply what you learn on a subsequent playthrough if you want to try again for 100%.
+- The most important thing to focus on for the first play is to simply keep the company afloat. Make sure that you don't completely run out of money and that your market share never drops all the way to 0%. If you can just survive the three-year SGGG project cycle, then it counts as a "clear," and successfully clearing the game will grant you extra money and other perks on your next playthrough, which will make achieving 100% share much easier.
+- Wisely handling the company's finances is what requires the most strategy, as running out of money is what poses the biggest threat of a Game Over to a first-time player. In the very early phases, make sure that you're not spending superfluously and doing things like hiring staff at very high salaries or keeping far more staff on your research bench than what you need. Once you've released a game or two and have hopefully built up a little bit of a financial cushion, you can start spending on extras, such as equipment upgrades to develop your next games more quickly or advertising campaigns to make them sell better.
 
 ### Resources
 
