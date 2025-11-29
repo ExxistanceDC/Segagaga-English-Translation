@@ -73,11 +73,11 @@ With that said, the following changes have made been to bring the game to Englis
 <table>
   <tr>
     <td><strong>Original Title</strong></td>
-    <td>Segagaga (セガガガ) (SGGG)</td>
+    <td>Segagaga (セガガガ)</td>
   </tr>
   <tr>
     <td><strong>Localized Title</strong></td>
-    <td>Segagaga</td>
+    <td>SEGAGAGA</td>
   </tr>
   <tr>
     <td><strong>Developer</strong></td>
