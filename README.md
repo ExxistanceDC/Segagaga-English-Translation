@@ -147,11 +147,23 @@ At this time, the only known issue is the spacing of the bluff (aka magic spells
     <td>A collection of interesting content that was cut from the final game but discovered in the game files.</td>
   </tr>
   <tr>
-    <td><strong><a href=https://www.huga-studio.com/>Huga Studio</a></strong></td>
-    <td>If you love the vibe of SEGAGAGA, check out more of producer Tez Okana's work with HUGA Studio.</td>
+    <td><strong><a href=https://www.huga-studio.com/>HUGA Studio</a></strong></td>
+    <td>If you love the vibe of SEGAGAGA, be sure to check out more of producer Tez Okana's work at his newest venture, HUGA Studio.</td>
   </tr>
 </table>
 
+Want to do your own translation of SEGAGAGA? All the tools are now available:
+
+<table>
+  <tr>
+    <td><strong><a href=https://github.com/9madsheep/sggg_bin_translation2>SGGG_BIN_Translation<strong></td>
+    <td>Allows for the updating of game text found in the main binary (1_SGGG.BIN).</td>
+  </tr>
+  <tr>
+    <td><strong><a href=https://github.com/VincentNLOBJ/SGGGE>SGGGE</strong></td>
+    <td>Allows for extraction and import of textures.</td>
+  </tr>
+</table>
 
 ## **Credits**
 
