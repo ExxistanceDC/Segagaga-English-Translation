@@ -163,9 +163,15 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
     <td>Allows for the updating of game text found in the main binary (1_SGGG.BIN).</td>
   </tr>
   <tr>
+    <td><strong><a href=https://github.com/9madsheep/SGGG_MES/releases/tag/main)>SGGG_MES</strong></td>
+    <td>Allows for updating text found in SGGG's MES files (pre and post-chapter dialogue scenes).</td>
+  </tr>
+  <tr>
     <td><strong><a href=https://github.com/VincentNLOBJ/SGGGE>SGGGE</strong></td>
     <td>Allows for extraction and import of textures.</td>
   </tr>
+  
+      
 </table>
 
 ## **Team Credits**
@@ -265,9 +271,6 @@ There are a few minor text alignment issues here and there, as well as a limitat
 Until then, from the bottom of my heart, I want to thank the Segagaga translation patch team, and I hope all of you, the players, enjoy experiencing it in English for the very first time.
 
 </blockquote>
-
-
-
 
 **Patrick Smith (Sixfortyfive)**
 
