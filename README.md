@@ -39,7 +39,7 @@ If you forget that, you can't make games.</br></div>
 - [Messages From the Team](#Messages-From-the-Team)
 
 ## **Overview**
-This patch fully translates SEGAGAGA into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even the smallest details—for example, matching the stroke width of the original lettering in textures.
+This patch fully translates SEGAGAGA into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even the smallest details—for example, like matching the stroke width of the original lettering in various textures.
 
 With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're guiding Taro Sega through his daily life at SoJ and not SoA. Thus, certain things remain in Japanese, like small item textures, or the background billboards in Akihabara. Generally, though, while *you* may be reading English as you play, Taro and most of the characters are Japanese.
 
@@ -53,8 +53,8 @@ With that said, the following changes have made been to bring the game to Englis
 - All chapter dialogue translated
 - All cutscenes subtitled in English
 - End credits translated
-- All in-game UI textures redrawn in English
-- Title Screen/Options/Save/Load screens redrawn in English
+- All 500+ in-game UI textures redrawn in English
+- Title Screen/Options/Chapter Interstitial screens redrawn in English
 - All VMU save and application metadata translated in Dreamcast's BIOS menu save manager
 - 25th Anniversary celebration added to opening splash screen
 - New 25th Anniversary VMU icon during gameplay
@@ -117,11 +117,11 @@ Grab your original SGGG discs off the shelf! The patch is offered in two flavors
 
 **--> Important! <--**
 - Tested with <kbd>SGGG - Segagaga v1.022 (2001)(Sega)(JP)(!)</kbd> and <kbd>SGGG - Segagaga (Japan)</kbd>
-- **DO NOT USE** "v2.000" or "Rev A". Due to minor cut content, the patch was designed around v1.022 and will NOT work with v2.000.
+- **DO NOT USE** "v2.000" or "Rev A". Due to minor cut content, the patch was designed around v1.022 and will **NOT** work with v2.000.
 
 ## **Known Issues**
 
-At this time, the only known issue is the spacing of the bluff (aka magic spells) cost in the Battle Mode bluff menu. You will notice that the numbers are a bit wider than the bluff name, and once they get to double-digits, they are indented farther in than the single-digit spell costs. We're still trying to hunt down a way to fix this, but it isn't game-breaking.
+At this time, the only known issue is the spacing of the bluff (i.e., magic spell) costs in the Battle Mode bluff menu. You may notice that the numbers are slightly wider than the bluff names, and once they reach double digits, they are indented farther than the single-digit spell costs. We're still searching for a way to fix this, but it isn’t game-breaking.
 
 ## **Extras**
 
@@ -248,7 +248,7 @@ Because of this, I was able to give the team a giant, static place in memory whe
 All of that being said, the real credit belongs to Exxistance and the rest of the team who worked so tirelessly to see their vision through to completion.
 While this English translation patch release for Segagaga isn’t absolutely perfect, it’s very, very good, and there’s a saying: don’t let perfect be the enemy of good.
 There are a few minor text alignment issues here and there, as well as a limitation for maximum number of characters printed per line in a dialogue box. I’d love to carve out a whole bunch of free time someday in the future to fix all of these, but honestly the prospect of doing such isn’t great.
-Until then, from the bottom of my heart, I want to thank the Segaga translation patch team, and I hope all of you, the players, enjoy experiencing it in English for the very first time.
+Until then, from the bottom of my heart, I want to thank the Segagaga translation patch team, and I hope all of you, the players, enjoy experiencing it in English for the very first time.
 
 </blockquote>
 
