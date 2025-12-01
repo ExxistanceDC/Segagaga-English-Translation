@@ -129,7 +129,7 @@ At this time, the only known issue is the spacing of the bluff (i.e., magic spel
 <table>
   <tr>
     <td><strong><a href=https://drive.google.com/file/d/1hrho1FihtNJyj3ZNnAJfHPTK5VFardF4/view?usp=drive_link>SEGAGAGA Instruction Manual</a></strong></td>
-    <td>Complete recreation of the Japanese instruction manual that came with the game.</td>
+    <td>A complete recreation of the Japanese instruction manual that came with the game.</td>
   </tr>
 </table>
 
