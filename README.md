@@ -33,10 +33,11 @@ If you forget that, you can't make games.</br></div>
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
 - [Patching Instructions](#Patching-Instructions)
-- [Helpful Tips & Resources](#helpful-tips--resources)
+- [Helpful Tips & Resources](#Helpful-Tips--Resources)
 - [Known Issues](#Known-Issues)
 - [Team Credits](#Team-Credits)
 - [Messages From the Team](#Messages-From-the-Team)
+- [AI Notice](#AI-Notice)
 
 ## **Overview**
 This patch fully translates SEGAGAGA into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even the smallest details—for example, like matching the stroke width of the original lettering in various textures.
@@ -289,3 +290,13 @@ Until then, from the bottom of my heart, I want to thank the Segagaga translatio
 > SGGG is a unique contradiction of a game. It's a work that simultaneously shines a light on an ugly side of game dev while also celebrating the art achieved through that adversity. There's something very human in wearing one's imperfections and failings on their sleeve like this and brandishing it for all the world to see. It's for that reason that I think the game resonates with a very particular subset of Sega fans; it thoroughly embodies the Dreamcast's experimental and niche ethos in a manner that comes across equal parts pride and regret.
 >
 > I came to this specific project late, after most of the heavy lifting was already done, and my contributions were mostly as a tester and editor. I'm one of presumably very few foreigners who powered through this game to 100% completion 20 years ago without even being able to read it, so I think I was most useful in just breaking the game down to the rest of the team for testing purposes, making sure that specific game mechanics are properly explained and that a number of specific Sega references are properly conveyed. That whole endgame sequence hits different when you don't know that it's coming and can only barely comprehend what's going on, and I only hope that you enjoy it half as much as I did. Hats off to everybody on the translation team for finally checking off a game that heretofore seemed to have been forever cursed to doomed and abandoned projects.
+
+## **AI Notice**
+
+Due to the importance of SEGAGAGA to the fan translation community, I think it’s important to disclose where AI was used in the development of this translation patch.
+
+What I call the “playtesting translation” — a base translation that allowed the artists and playtesters to understand what they were working on — was developed using a combination of DeepL and ChatGPT 4o/4.5. That translation then went through a substantial, months-long **human translator** review. I think the end product doesn’t feel “machine-translated,” but that’s ultimately for you, the player, to decide.
+
+For the purists, we’re also offering the tools used to develop the translation, so if you are a translator who wants to do your very own translation of SEGAGAGA, you now have the means to do so! Check out the [Resources](#helpful-tips--resources) section to get them.
+
+The beauty of the fan translation community is that people are always refining and developing new translations and giving them back to the community. Go forth and prosper!
