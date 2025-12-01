@@ -221,12 +221,12 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
 
 **Derek Pascarella (ateam)**
 <blockquote>
-<p></p>Segagaga has something of a sordid history in the fan translation scene. At least two separate groups have made sincere (public) attempts to develop a full English localization patch over the years, though of course neither saw the project through to completion.</p>
-For a while now, there’s been a thread on the Dreamcast-Talk.com forums where several of us have shared technical bits and pieces about Segagaga in order to amass and preserve such knowledge should any group decide to tackle patching it. Collectively, we had native ASCII support (including a half-width font tile spacing hack), tools to extract/rebuild archives using custom compression, as well as a text extractor/rebuilder.
-It might be worth noting that I myself considered endeavoring to lead this project myself once or twice, but I stopped myself for a number of reasons beyond the scope of this write-up.
-Though at some point along the way, Exxistance saw what was available to him and decided he would do something about it. Once his project started gaining some momentum, Mr. Nobody reached out to see if I could potentially assist with things like hacking or tool writing. While many of you might know me for the many English translation patches I’ve developed for the Dreamcast (and other platforms) over the years, my free time as of writing this message is at an all-time low. As a result, not only was there zero chance of me leading this project, but I felt the odds of me being able to contribute anything meaningful to it were quite low too.
-That assumption turned out to be untrue, however.
-While I may have done a lot less for this project than I’d have liked, I’m happy that I was able to contribute a few key things that helped the patch finally see a release…
+<p>Segagaga has something of a sordid history in the fan translation scene. At least two separate groups have made sincere (public) attempts to develop a full English localization patch over the years, though of course neither saw the project through to completion.</p>
+<p>For a while now, there’s been a thread on the Dreamcast-Talk.com forums where several of us have shared technical bits and pieces about Segagaga in order to amass and preserve such knowledge should any group decide to tackle patching it. Collectively, we had native ASCII support (including a half-width font tile spacing hack), tools to extract/rebuild archives using custom compression, as well as a text extractor/rebuilder.</p>
+<p>It might be worth noting that I myself considered endeavoring to lead this project myself once or twice, but I stopped myself for a number of reasons beyond the scope of this write-up.</p>
+<p>Though at some point along the way, Exxistance saw what was available to him and decided he would do something about it. Once his project started gaining some momentum, Mr. Nobody reached out to see if I could potentially assist with things like hacking or tool writing. While many of you might know me for the many English translation patches I’ve developed for the Dreamcast (and other platforms) over the years, my free time as of writing this message is at an all-time low. As a result, not only was there zero chance of me leading this project, but I felt the odds of me being able to contribute anything meaningful to it were quite low too.</p>
+<p>That assumption turned out to be untrue, however.</p>
+<p>While I may have done a lot less for this project than I’d have liked, I’m happy that I was able to contribute a few key things that helped the patch finally see a release…</p>
 
 <ul>
   <li>
@@ -234,9 +234,22 @@ While I may have done a lot less for this project than I’d have liked, I’m h
     One of the biggest challenges this game presented to prospective patch developers has been its use of the BIOS font. See, rather than the game bundling in its own font sheet in some format that hackers can easily write tools to edit (e.g., insert their own Latin alphabet glyphs), Segagaga speaks directly to the Dreamcast’s BIOS when it comes time to render text on screen. After megavolt85 did all of the assembly hacking to force the game to interpret ASCII-encoded text and then pull from the ASCII section of the BIOS font (rather than Shift-JIS), I started poking around a bit to see how it all worked.
 
 What I discovered is that the game actually copies the entirety of the BIOS font into RAM pretty near the location where the game executable ends! So, I disabled the assembly code that performed this copy, then also disabled the code that null’d out that portion of RAM before doing the copy. I then appended the BIOS font to the end of the game executable, and just like that, the font data was precisely where the game expected it to be, and it could be modified! This came in handy a number of times as font glyphs needed tweaking for optimal appearance.
-
   </li>
 </ul>
+<ul>
+  <li>
+    <strong>Ability to expand available space for executable-embedded text strings</strong><br>
+    After the modifications to the font system described above, I realized that we now had tons of free space in the game executable. Why, or how? Well, because only a fraction of all of that BIOS font data (i.e., ASCII) was actually being used, the rest of that space could be repurposed (i.e., where Shift-JIS once was).
+
+Because of this, I was able to give the team a giant, static place in memory where the game’s many, many executable-embedded text strings could now be safely written. If not for this hack, there’d be not nearly enough room to store the translated versions of those strings, resulting in a much poorer quality presentation.
+  </li>
+</ul>
+
+All of that being said, the real credit belongs to Exxistance and the rest of the team who worked so tirelessly to see their vision through to completion.
+While this English translation patch release for Segagaga isn’t absolutely perfect, it’s very, very good, and there’s a saying: don’t let perfect be the enemy of good.
+There are a few minor text alignment issues here and there, as well as a limitation for maximum number of characters printed per line in a dialogue box. I’d love to carve out a whole bunch of free time someday in the future to fix all of these, but honestly the prospect of doing such isn’t great.
+Until then, from the bottom of my heart, I want to thank the Segaga translation patch team, and I hope all of you, the players, enjoy experiencing it in English for the very first time.
+
 </blockquote>
 
 
