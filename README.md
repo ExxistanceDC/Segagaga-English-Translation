@@ -151,10 +151,18 @@ Grab your original SGGG discs off the shelf! The patch is offered in two flavors
 1. Click **"Apply Patch"** to generate the patched GDI, which will be saved in the folder from which the application is launched.
 1. Click **"Quit"** to exit the application.
 
+<br>
+<br>
 
-### Option 2: xdelta
+### Option 2: GDI Format (Users of ODEs or Emulators) - XDelta Patch
 
+The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as Delta Patcher. It targets track03.bin of the original TOSEC GDI or Redump GDI. Ensure the source track03.bin file has an MD5 checksum of CBD9C06606B889926AA496639A309531.
 
+1. Click the settings icon (appears as a gear), enable "Checksum validation", and disable "Backup original file".
+1. Click the "Original file" browse icon and select the original track03.bin file.
+1. Click the "XDelta patch" browse icon and select the Nakoruru - The Gift She Gave Me (English v1.3) [GDI].xdelta XDelta patch.
+1. Click "Apply patch" to overwrite the original track03.bin file with the patched version.
+1. Verify that the patched track03.bin file has an MD5 checksum of CBD9C06606B889926AA496639A309531.
 
 ## **Extras**
 
