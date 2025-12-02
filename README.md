@@ -109,12 +109,18 @@ With that said, the following changes have made been to bring the game to Englis
 
 ## **Screenshots**
 
+<div align="center">
 <!-- Row 1 -->
 <p>
-  <img src="Images/TAROMARU-250818-142700.png" width="500"/>
-  <img src="Images/TAROMARU-250818-142640.png" width="500"/>
+  <img src="https://github.com/user-attachments/assets/9fd1ba5d-f831-4622-a516-c68865e4438b" width="500"/>
+  <img src="https://github.com/user-attachments/assets/f9b6805e-4ba6-4bec-a243-5ed6b7841be9" width="500"/>
 </p>
-
+<!-- Row 2 -->
+<p>
+  <img src="https://github.com/user-attachments/assets/88947cfc-bcf5-419e-8bc4-cf9d583a8b37" width="500"/>
+  <img src="https://github.com/user-attachments/assets/826ab780-fc58-45c0-b642-fed2b45e7716" width="500"/>
+</p>
+</div>
 
 
 ## **Patching Instructions**
