@@ -38,8 +38,8 @@ If you forget that, you can't make games.</br></div>
 
 ## Table of Contents
 - [Overview](#Overview)
-- [Screenshots](#Screenshots)
 - [About the Game](#About-the-Game)
+- [Screenshots](#Screenshots)
 - [Patching Instructions](#Patching-Instructions)
 - [Extras](#Extras)
 - [Helpful Tips & Resources](#Helpful-Tips--Resources)
@@ -70,16 +70,9 @@ With that said, the following changes have made been to bring the game to Englis
 - New 25th Anniversary VMU icon during gameplay
 - Original instruction manual translated and redrawn in faithful style to the original
 
-## **Screenshots**
-
-<!-- Row 1 -->
-<p>
-  <img src="Images/TAROMARU-250818-142700.png" width="500"/>
-  <img src="Images/TAROMARU-250818-142640.png" width="500"/>
-</p>
-
 ## **About the Game**
 
+<div align="center">
 <table>
   <tr>
     <td><strong>Original Title</strong></td>
@@ -110,6 +103,17 @@ With that said, the following changes have made been to bring the game to Englis
     <td>15 hours-ish (Main Story)</td>
   </tr>
 </table>
+</div>
+
+## **Screenshots**
+
+<!-- Row 1 -->
+<p>
+  <img src="Images/TAROMARU-250818-142700.png" width="500"/>
+  <img src="Images/TAROMARU-250818-142640.png" width="500"/>
+</p>
+
+
 
 ## **Patching Instructions**
 
