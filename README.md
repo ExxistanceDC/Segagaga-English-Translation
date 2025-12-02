@@ -239,7 +239,7 @@ At this time, the only known issue is the spacing of the bluff (i.e., magic spel
 ## **Messages From the Team**
 
 **Exxistance**
-> I’ve been a SEGA fan since I was a kid. Though my first video game console may have been an NES, I still vividly remember first experiencing Altered Beast on the Genesis at my friend’s house. The Genesis was such a step up from the NES, the games so cool, that it led me to buying my first SEGA console–the Game Gear (the only one I could afford, and which I bought via layaway at Kmart). 
+> I’ve been a SEGA fan since I was a kid. Though my first video game console may have been an NES, I still vividly remember first experiencing Altered Beast on the Genesis at my friend’s house. The Genesis was such a step up from the NES, the games so *cool*, that it led me to buying my first SEGA console–the Game Gear (the only one I could afford, and which I bought via layaway at Kmart). 
 > 
 > Many years later, when the Model 1 and 2 boards were wowing me at the arcades during my formative teenage years, the Saturn arrived with the enticing promise of bringing those arcade experiences to the home. I was exactly the kind of buyer SEGA wanted: someone not burned by their previous hardware flops, the 32X and Sega CD. The Saturn represented the beautiful 32-bit future in my eyes and “arcade perfect” Virtua Cop at home. I had a lot of love for Saturn–and still do. (Thanks to the vibrant translation community, I find myself enjoying it even more these days, thanks to previously Japanese-only games receiving English translations.)
 > 
