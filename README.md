@@ -38,16 +38,17 @@ It's not truth that paves the way—it's hope!</br>
 If you forget that, you can't make games.</br></div>
 
 ## Table of Contents
-- [Overview](#Overview)
-- [About the Game](#About-the-Game)
-- [Screenshots](#Screenshots)
-- [Patching Instructions](#Patching-Instructions)
-- [Extras](#Extras)
-- [Helpful Tips & Resources](#Helpful-Tips--Resources)
-- [Known Issues](#Known-Issues)
-- [Team Credits](#Team-Credits)
-- [Messages From the Team](#Messages-From-the-Team)
-- [AI Notice](#AI-Notice)
+1. [Overview](#Overview)
+1. [About the Game](#About-the-Game)
+1. [Screenshots](#Screenshots)
+1. [Patching Instructions](#Patching-Instructions)
+1. [Extras](#Extras)
+1. [Helpful Tips & Resources](#Helpful-Tips--Resources)
+1. [Known Issues](#Known-Issues)
+1. [Team Credits](#Team-Credits)
+1. [Messages From the Team](#Messages-From-the-Team)
+1. [AI Notice](#AI-Notice)
+1. [Reporting Issues](#Reporting-Issues)
 
 ## **Overview**
 This patch fully translates SEGAGAGA into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even the smallest details—for example, like matching the stroke width of the original lettering in various textures.
@@ -321,3 +322,8 @@ What I call the “playtesting translation” — a base translation that allowe
 For the purists, we’re also offering the tools used to develop the translation, so if you are a translator who wants to do your very own translation of SEGAGAGA, you now have the means to do so! Check out the [Resources](#resources) section to get them.
 
 The beauty of the fan translation community is that people are always refining and developing new translations and giving them back to the community. Go forth and prosper!
+
+
+## **Reporting Issues**
+
+
