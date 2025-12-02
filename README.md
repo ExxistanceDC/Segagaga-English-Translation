@@ -1,10 +1,12 @@
 <div align="center"><strong>The SGGG Translation Team proudly presents</strong></div>
 
 <div align="center">
-<img width="700" height="500" alt="SGGG 25th Anniversary Logo" src="https://github.com/user-attachments/assets/a4e4db4d-efde-4b14-8472-9d5adaf45f90" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/543a4506-7c36-45af-8aae-d0868533430f">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a4e4db4d-efde-4b14-8472-9d5adaf45f90">
+  <img alt="SGGG 25th Anniversary Logo" src="https://github.com/user-attachments/assets/a4e4db4d-efde-4b14-8472-9d5adaf45f90" width="500">
+</picture>
 </div>
-
-<img width="2500" height="1134" alt="SGGG 25th Anniversary Logo Dark Mode" src="https://github.com/user-attachments/assets/543a4506-7c36-45af-8aae-d0868533430f" />
 
 
 Before we dive into the rest of the README, we must start with a word of thanks.
