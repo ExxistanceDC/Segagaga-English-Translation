@@ -125,7 +125,6 @@ With that said, the following changes have made been to bring the game to Englis
   <img src="https://github.com/user-attachments/assets/88e0d6af-0c6e-415b-a9e6-9f6a47698ef1" width="500"/>
   <img src="https://github.com/user-attachments/assets/8ff55afa-6c1a-4a6e-a63c-b210eb0066e6" width="500"/>
 </p>
-</div>
 <!-- Row 4 -->
 <p>
   <img src="https://github.com/user-attachments/assets/7a49b160-32dd-48fb-ad6a-f72a961dd49b" width="500"/>
