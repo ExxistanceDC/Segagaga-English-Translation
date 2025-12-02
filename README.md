@@ -1,4 +1,4 @@
-<div align="center"><strong>The SGGG 25th Anniversary Translation Team proudly presents</strong></div>
+<div align="center"><strong>The SGGG Translation Team proudly presents</strong></div>
 
 <div align="center">
 <img width="700" height="500" alt="SGGG 25th Anniversary Logo" src="https://github.com/user-attachments/assets/a4e4db4d-efde-4b14-8472-9d5adaf45f90" />
