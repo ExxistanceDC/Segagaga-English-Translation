@@ -1,5 +1,8 @@
 #### The SGGG 25th Anniversary Translation Team proudly presents:
 
+<img width="1103" height="500" alt="SGGG 25th Anniversary Logo" src="https://github.com/user-attachments/assets/a4e4db4d-efde-4b14-8472-9d5adaf45f90" />
+
+
 # **SEGAGAGA English Translation Patch**
 
 Before we dive into the rest of the README, we must start with a word of thanks.
