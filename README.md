@@ -131,6 +131,7 @@ With that said, the following changes have made been to bring the game to Englis
   <img src="https://github.com/user-attachments/assets/7a49b160-32dd-48fb-ad6a-f72a961dd49b" width="500"/>
   <img src="https://github.com/user-attachments/assets/286f9e0c-ce02-4697-84ad-0891832dd6fb" width="500"/>
 </p>
+</div>
 
 
 ## **Patching Instructions**
