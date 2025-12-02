@@ -120,7 +120,17 @@ With that said, the following changes have made been to bring the game to Englis
   <img src="https://github.com/user-attachments/assets/88947cfc-bcf5-419e-8bc4-cf9d583a8b37" width="500"/>
   <img src="https://github.com/user-attachments/assets/826ab780-fc58-45c0-b642-fed2b45e7716" width="500"/>
 </p>
+<!-- Row 3 -->
+<p>
+  <img src="https://github.com/user-attachments/assets/88e0d6af-0c6e-415b-a9e6-9f6a47698ef1" width="500"/>
+  <img src="https://github.com/user-attachments/assets/8ff55afa-6c1a-4a6e-a63c-b210eb0066e6" width="500"/>
+</p>
 </div>
+<!-- Row 4 -->
+<p>
+  <img src="https://github.com/user-attachments/assets/7a49b160-32dd-48fb-ad6a-f72a961dd49b" width="500"/>
+  <img src="https://github.com/user-attachments/assets/286f9e0c-ce02-4697-84ad-0891832dd6fb" width="500"/>
+</p>
 
 
 ## **Patching Instructions**
