@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3fdf7d98-c9f7-48be-9d77-e9c467fea1f2">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a4e4db4d-efde-4b14-8472-9d5adaf45f90">
-  <img alt="SGGG 25th Anniversary Logo" src="https://github.com/user-attachments/assets/a4e4db4d-efde-4b14-8472-9d5adaf45f90" width="500">
+  <img alt="SGGG 25th Anniversary Logo" src="https://github.com/user-attachments/assets/a4e4db4d-efde-4b14-8472-9d5adaf45f90" width="700">
 </picture>
 </div>
 
