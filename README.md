@@ -4,6 +4,9 @@
 <img width="700" height="500" alt="SGGG 25th Anniversary Logo" src="https://github.com/user-attachments/assets/a4e4db4d-efde-4b14-8472-9d5adaf45f90" />
 </div>
 
+<img width="2500" height="1134" alt="SGGG 25th Anniversary Logo Dark Mode" src="https://github.com/user-attachments/assets/543a4506-7c36-45af-8aae-d0868533430f" />
+
+
 Before we dive into the rest of the README, we must start with a word of thanks.
 
 This effort simply would not have been possible without the members of the Dreamcast-Talk community that started tackling the various technical challenges in 2022. It was they who hacked the main binary, allowing it to leverage ASCII and use the Dreamcast BIOS font, built tools for extracting & re-compressing the textures, built tools for easy text reinsertion, and basically paved the way for a monkey like me to spend my days drawing, translating, and playtesting.
