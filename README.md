@@ -158,6 +158,10 @@ Grab your original SGGG discs off the shelf! The patch is offered in two flavors
     <td><strong><a href=https://drive.google.com/file/d/1hrho1FihtNJyj3ZNnAJfHPTK5VFardF4/view?usp=drive_link>SEGAGAGA Instruction Manual</a></strong></td>
     <td>A complete recreation of the Japanese instruction manual that came with the game.</td>
   </tr>
+  <tr>
+    <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>SGGG Papercraft</a></strong></td>
+    <td>Originally hosted on Hitmaker's website, the SGGG papercraft lets you build your own SEGA consoles from paper.</td> 
+  </tr>
 </table>
 
 ## **Helpful Tips & Resources**
