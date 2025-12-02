@@ -8,6 +8,7 @@
 </picture>
 </div>
 
+<img width="2500" height="1134" alt="SGGG 25th Anniversary Logo Dark Mode" src="https://github.com/user-attachments/assets/3fdf7d98-c9f7-48be-9d77-e9c467fea1f2" />
 
 Before we dive into the rest of the README, we must start with a word of thanks.
 
