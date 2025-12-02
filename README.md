@@ -34,7 +34,9 @@ If you forget that, you can't make games.</br></div>
 ## Table of Contents
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
+- [About the Game](#About-the-Game)
 - [Patching Instructions](#Patching-Instructions)
+- [Extras](#Extras)
 - [Helpful Tips & Resources](#Helpful-Tips--Resources)
 - [Known Issues](#Known-Issues)
 - [Team Credits](#Team-Credits)
@@ -122,10 +124,6 @@ Grab your original SGGG discs off the shelf! The patch is offered in two flavors
 - Tested with <kbd>SGGG - Segagaga v1.022 (2001)(Sega)(JP)(!)</kbd> and <kbd>SGGG - Segagaga (Japan)</kbd>
 - **DO NOT USE** "v2.000" or "Rev A". Due to minor cut content, the patch was designed around v1.022 and will **NOT** work with v2.000.
 
-## **Known Issues**
-
-At this time, the only known issue is the spacing of the bluff (i.e., magic spell) costs in the Battle Mode bluff menu. You may notice that the numbers are slightly wider than the bluff names, and once they reach double digits, they are indented farther than the single-digit spell costs. We're still searching for a way to fix this, but it isn’t game-breaking.
-
 ## **Extras**
 
 <table>
@@ -134,7 +132,6 @@ At this time, the only known issue is the spacing of the bluff (i.e., magic spel
     <td>A complete recreation of the Japanese instruction manual that came with the game.</td>
   </tr>
 </table>
-
 
 ## **Helpful Tips & Resources**
 
@@ -180,6 +177,10 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
   
       
 </table>
+
+## **Known Issues**
+
+At this time, the only known issue is the spacing of the bluff (i.e., magic spell) costs in the Battle Mode bluff menu. You may notice that the numbers are slightly wider than the bluff names, and once they reach double digits, they are indented farther than the single-digit spell costs. We're still searching for a way to fix this, but it isn’t game-breaking.
 
 ## **Team Credits**
 
