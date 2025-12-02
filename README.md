@@ -166,7 +166,7 @@ Grab your original SGGG discs off the shelf! The patch is offered in two flavors
 
 ## **Helpful Tips & Resources**
 
-### **Helpful Tips (courtesy of Sixfortyfive)**
+### **Helpful Tips**
 
  - All currency in SEGAGAGA is denominated in yen (¥). Once your development budgets become sufficiently large, you'll start to encounter number formats that have no direct equivalent in English. For example, Japanese uses 万 to represent “10,000,” and 億 to represent “100,000,000.” The closest English analogues would be something like “K” for thousand or “MM” for million, but there’s no true one-to-one match.
 Since we don’t have access to the game’s source code, tracing and converting every internal calculation into an English-style numbering system wasn’t feasible. Instead, we created a simple letter-based notation to help you interpret yen amounts. For example, if you see a value such as 10T200¥, that corresponds to 100,200 yen. So, remember:
@@ -175,19 +175,19 @@ Since we don’t have access to the game’s source code, tracing and converting
 <table>
 <tr>
   <td><strong>T</strong></td>
-  <td>10,000 yen</td>
+  <td>10,000 ¥</td>
 </tr>
 <tr>
   <td><strong>M</strong></td>
-  <td>100,000,000 yen</td>
+  <td>100,000,000 ¥</td>
 </tr>
 </table>
 </div>
  
- - SEGAGAGA has multiple endings and a lot of unlockable archive content that's impossible to acquire in a single playthrough. If you intend to see all of it, then expect to play through the game multiple times. If you're not a completionist but do want to see the true ending, then you'll need to acquire 100% market share.
-- On your first playthrough, don't stress yourself too much when it comes to acquiring 100% market share. It is possible to achieve, but doing so requires a fair bit of knowledge of how the simulation works, which isn't likely to be quickly mastered by a first-time player. Just enjoy the story and experiment a bit in the game dev simulation to learn what you can, then apply what you learn on a subsequent playthrough if you want to try again for 100%.
-- The most important thing to focus on for the first play is to simply keep the company afloat. Make sure that you don't completely run out of money and that your market share never drops all the way to 0%. If you can just survive the three-year SGGG project cycle, then it counts as a "clear," and successfully clearing the game will grant you extra money and other perks on your next playthrough, which will make achieving 100% share much easier.
-- Wisely handling the company's finances is what requires the most strategy, as running out of money is what poses the biggest threat of a Game Over to a first-time player. In the very early phases, make sure that you're not spending superfluously and doing things like hiring staff at very high salaries or keeping far more staff on your research bench than what you need. Once you've released a game or two and have hopefully built up a little bit of a financial cushion, you can start spending on extras, such as equipment upgrades to develop your next games more quickly or advertising campaigns to make them sell better.
+ - SEGAGAGA has multiple endings and a lot of unlockable archive content that's impossible to acquire in a single playthrough. If you intend to see all of it, then expect to play through the game multiple times. If you're not a completionist but do want to see the true ending, then you'll need to acquire 100% market share. (c/o Sixfortyfive)
+- On your first playthrough, don't stress yourself too much when it comes to acquiring 100% market share. It is possible to achieve, but doing so requires a fair bit of knowledge of how the simulation works, which isn't likely to be quickly mastered by a first-time player. Just enjoy the story and experiment a bit in the game dev simulation to learn what you can, then apply what you learn on a subsequent playthrough if you want to try again for 100%. (c/o Sixfortyfive)
+- The most important thing to focus on for the first play is to simply keep the company afloat. Make sure that you don't completely run out of money and that your market share never drops all the way to 0%. If you can just survive the three-year SGGG project cycle, then it counts as a "clear," and successfully clearing the game will grant you extra money and other perks on your next playthrough, which will make achieving 100% share much easier. (c/o Sixfortyfive)
+- Wisely handling the company's finances is what requires the most strategy, as running out of money is what poses the biggest threat of a Game Over to a first-time player. In the very early phases, make sure that you're not spending superfluously and doing things like hiring staff at very high salaries or keeping far more staff on your research bench than what you need. Once you've released a game or two and have hopefully built up a little bit of a financial cushion, you can start spending on extras, such as equipment upgrades to develop your next games more quickly or advertising campaigns to make them sell better. (c/o Sixfortyfive)
 
 ### Resources
 
