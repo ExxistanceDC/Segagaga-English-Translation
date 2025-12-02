@@ -183,7 +183,7 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
   </tr>
   <tr>
     <td><strong><a href=https://github.com/VincentNLOBJ/SGGGE>SGGGE</strong></td>
-    <td>Allows for extraction and import of textures.</td>
+    <td>Allows for extraction and reinsertion of SGGG's textures.</td>
   </tr>
   
       
@@ -326,4 +326,5 @@ The beauty of the fan translation community is that people are always refining a
 
 ## **Reporting Issues**
 
+While the patch has been thoroughly tested for months and months, the universe loves a good joke, and stuff always gets through. Please report typos, mispellings, text overruns, and the like by submitting a new issue to this repo. 
 
