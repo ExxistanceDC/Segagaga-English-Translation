@@ -326,5 +326,5 @@ The beauty of the fan translation community is that people are always refining a
 
 ## **Reporting Issues**
 
-While the patch has been thoroughly tested for months and months, the universe loves a good joke, and stuff always gets through. Please report typos, mispellings, text overruns, and the like by submitting a new issue to this repo. 
+While the patch has been thoroughly tested for months and months, the universe loves a good joke, and stuff always gets through. Please report typos, mispellings, text overruns, and the like by [submitting a new issue](https://github.com/ExxistanceDC/Segagaga-English-Translation/issues/new) to this repo. 
 
