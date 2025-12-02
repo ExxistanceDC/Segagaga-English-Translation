@@ -137,19 +137,24 @@ With that said, the following changes have made been to bring the game to Englis
 
 Grab your original SGGG discs off the shelf! The patch is offered in two flavors: a Universal Dreamcast Patcher .DCP file and an xdelta .xdelta file. 
 
-### Option 1: Universal Dreamcast Patcher
-
-1. Download [Universal Dreamcast Patcher](https://github.com/DerekPascarella/UniversalDreamcastPatcher) (if you don't already have it)
-2. Unzip patch bundle
-3. Open xxx'**
-4. After it opens, click **xxxx**
-5. Next click **xxxxx**
-
-### Option 2: xdelta
-
 **--> Important! <--**
 - Tested with <kbd>SGGG - Segagaga v1.022 (2001)(Sega)(JP)(!)</kbd> and <kbd>SGGG - Segagaga (Japan)</kbd>
 - **DO NOT USE** "v2.000" or "Rev A". Due to minor cut content, the patch was designed around v1.022 and will **NOT** work with v2.000.
+
+
+### Option 1: Universal Dreamcast Patcher GDI Format (Users of ODEs or Emulators) - DCP Patch
+<img align="right" width="275" src="https://github.com/user-attachments/assets/8b9ebec7-4b92-45fb-bf2f-01034a56dacc">
+
+1. Download <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> (if you don't already have it) 
+1. Click **"Select GDI or CUE"** to open the source disc image.
+1. Click **"Select Patch"** to open the DCP patch file.
+1. Click **"Apply Patch"** to generate the patched GDI, which will be saved in the folder from which the application is launched.
+1. Click **"Quit"** to exit the application.
+
+
+### Option 2: xdelta
+
+
 
 ## **Extras**
 
