@@ -140,6 +140,7 @@ Grab your original SGGG discs off the shelf! The patch is offered in two flavors
 **--> Important! <--**
 - Tested with <kbd>SGGG - Segagaga v1.022 (2001)(Sega)(JP)(!)</kbd> and <kbd>SGGG - Segagaga (Japan)</kbd>
 - **DO NOT USE** "v2.000" or "Rev A". Due to minor cut content, the patch was designed around v1.022 and will **NOT** work with v2.000.
+- It's highly recommended that you start the game with a **NEW** save file, not one carried over from a Japanese copy. Sorry to those who've played the Japanese original, but with all the changes to the main binary, it's better to start from scratch to avoid issues. 
 
 
 ### Option 1: Universal Dreamcast Patcher GDI Format (Users of ODEs or Emulators) - DCP Patch
