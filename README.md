@@ -176,33 +176,38 @@ The XDelta patch file shipped with this release can be used with any number of D
     <td><strong><a href=https://downloads.khinsider.com/game-soundtracks/album/sggg5-original-soundtrack-2006>SEGAGAGA Soundtrack</a></strong></td>
     <td>SEGAGAGA has a vibetastic soundtrack composed by Tsuyoshi Kaneko. It <i>will</i> get stuck in your head. It is also <a href=https://www.amazon.co.jp/-/en/SGGG5-ORIGINAL-SOUNDTRACK-SEGA-Sound/dp/B000GCFJAI/ref=sr_1_1?sr=8-1>available for purchase</a> via Amazon JP.</td>
   <tr>
-    <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>SGGG Papercraft</a></strong></td>
+    <td><strong><https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=drive_link>SGGG Papercraft</a></strong></td>
     <td>Originally hosted on Hitmaker's website, the SGGG papercraft lets you build your own SEGA consoles from paper.</td> 
   </tr>
 </table>
 
-The following optional .DCP patches contain custom disc 0GDTEX.PVR disc artwork that will display in the Dreamcast BIOS. Simply apply the selected .dcp patch to the game image using Universal Dreamcast Patcher.
+The following optional .DCP patches contain custom disc artwork that will display in the Dreamcast BIOS. Simply apply whatever .DCP patch you download to the game image using Universal Dreamcast Patcher.
 
 <table>
+  <tr>
+    <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>BLACK</a></strong></td>
+    <td><img width="256" height="256" alt="SGGG_Black" src="https://github.com/user-attachments/assets/3e1f49c4-783d-4fd5-a680-7c707d22c63e" /></td> 
+    <td>Classy and dressed for the occassion.</td>
  <tr>
     <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>HEROES</a></strong></td>
-    <td><img width="156" height="156" alt="SGGG_Heroes" src="https://github.com/user-attachments/assets/1b96ccb4-9e15-4a68-b33e-33cddbdd5a9b" />
-</td> 
+    <td><img width="256" height="256" alt="SGGG_Heroes" src="https://github.com/user-attachments/assets/1b96ccb4-9e15-4a68-b33e-33cddbdd5a9b" /></td> 
     <td>Depicts the hero and heroine of Project Segagaga, Taro and Yayoi.</td>
 </tr>
    <tr>
     <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>128-bit</a></strong></td>
-    <td><img width="156" height="156" alt="SGGG_128bit" src="https://github.com/user-attachments/assets/6fe36767-5286-44e6-984f-5337949392e8" />
-
-</td> 
+    <td><img width="256" height="256" alt="SGGG_128bit" src="https://github.com/user-attachments/assets/6fe36767-5286-44e6-984f-5337949392e8" /></td> 
     <td>The Dreamcast in all its 128-bit glory. Inspired by the SGGG papercraft which itself was inspired by the design of the Mega Drive.</td>
 </tr>
-</tr>
-   <tr>
+<tr>
     <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>SYSTEMS</a></strong></td>
-    <td><img width="156" height="156" alt="SGGG_Systems" src="https://github.com/user-attachments/assets/418df648-05b9-42c9-a8d9-c04d881e345e" />
-</td> 
+    <td><img width="256" height="256" alt="SGGG_Systems" src="https://github.com/user-attachments/assets/418df648-05b9-42c9-a8d9-c04d881e345e" /></td> 
     <td>Showcases the legacy of SEGA hardware. Inspired by the "SGGG Sound Truck Collection" originally found on the JP SGGG website.</td>
+</tr>
+<tr>
+    <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>SOUNDTRACK</a></strong></td>
+    <td><img width="256" height="256" alt="SGGG_Soundtrack" src="https://github.com/user-attachments/assets/e23323a4-bbbd-4f6f-a045-99593ecd5f7b" /></td> 
+    <td>Inspired by the covers of the SGGG Soundtrack Collection.</td>
+</tr>  
 </table>
 
 ## **Helpful Tips & Resources**
