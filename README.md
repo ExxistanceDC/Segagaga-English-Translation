@@ -207,7 +207,13 @@ The following optional .DCP patches contain custom disc artwork that will displa
     <td><strong><a href=https://drive.google.com/file/d/1VRkDBf_mspMmSKfSvpatnggtwQilf5Fv/view?usp=drive_link>SOUNDTRACK</a></strong></td>
     <td><img width="256" height="256" alt="SGGG_Soundtrack" src="https://github.com/user-attachments/assets/e23323a4-bbbd-4f6f-a045-99593ecd5f7b" /></td> 
     <td>Inspired by the covers of the SGGG Soundtrack Collection.</td>
-</tr>  
+</tr>
+<tr>
+    <td><strong><a href=https://drive.google.com/file/d/1HiQiB_ybvascxzKmou7yqLsmNcqOcS-F/view?usp=drive_link>JP DEFAULT</a></strong></td>
+    <td><img width="256" height="256" alt="JPDefault" src="https://github.com/user-attachments/assets/838c2bfc-7484-46cf-ba4e-0aa5bea86522" />
+</td> 
+    <td>The default 0GDTEX.PVR that comes with the Japanese version of SGGG.</td>
+</tr>    
 </table>
 
 ## **Helpful Tips & Resources**
