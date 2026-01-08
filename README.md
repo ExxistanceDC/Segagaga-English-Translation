@@ -187,7 +187,7 @@ The following optional .DCP patches contain custom disc artwork that will displa
   <tr>
     <td><strong><a href=https://drive.google.com/file/d/1h90nQG2Z2xoBSP040JTIYEUxzpDf8-AW/view?usp=drive_link>BLACK</a></strong></td>
     <td><img width="256" height="256" alt="SGGG_Black" src="https://github.com/user-attachments/assets/3e1f49c4-783d-4fd5-a680-7c707d22c63e" /></td> 
-    <td>Classy and dressed for the occassion.</td>
+    <td>Classy and dressed for the occassion. [Patch default]</td>
  <tr>
     <td><strong><a href=https://drive.google.com/file/d/1D2wWsfl1OI4GfdN86cwOzdNyg9CrQZ-2/view?usp=drive_link>HEROES</a></strong></td>
     <td><img width="256" height="256" alt="SGGG_Heroes" src="https://github.com/user-attachments/assets/1b96ccb4-9e15-4a68-b33e-33cddbdd5a9b" /></td> 
