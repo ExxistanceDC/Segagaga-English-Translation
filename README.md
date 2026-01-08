@@ -22,8 +22,8 @@ So, with utmost thanks:
 
 **megavolt85** (ASM hacking)</br>
 **MadSheep** (custom script tooling)</br>
-**VincentNL** (custom texture tooling)</br>
-**Derek Pascarella (ateam)** (ASM hacking)</br></div>
+**VincentNL** (ASM hacking/custom texture tooling)</br>
+**Derek Pascarella (ateam)** (ASM hacking/custom tooling)</br></div>
 
 Continuing on with the README...no, your eyes aren't playing tricks on you. You’re about to play SEGAGAGA—the fun, quirky, RPG/game development simulator for Sega Dreamcast—in *English*. And you’re in for a truly unique and special experience.
 
