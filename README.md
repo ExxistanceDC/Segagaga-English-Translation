@@ -64,7 +64,7 @@ With that said, the following changes have made been to bring the game to Englis
 - All in-game dialogue translated
 - All chapter dialogue translated
 - All cutscenes subtitled in English
-- End credits translated
+- Staff credits translated
 - All 500+ in-game UI textures redrawn in English
 - Title Screen/Options/Chapter Interstitial screens redrawn in English
 - All VMU save and application metadata translated in Dreamcast's BIOS menu save manager
@@ -181,6 +181,15 @@ The XDelta patch file shipped with this release can be used with any number of D
   </tr>
 </table>
 
+The following optional .dcp patches contain custom disc 0GDTEX.PVR disc artwork that will display in the Dreamcast BIOS. Simply apply the selected .dcp patch to the game image using Universal Dreamcast Patcher.
+
+<table>
+ <tr>
+    <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>HEROES</a></strong></td>
+    <td>kadjsksdjf.</td> 
+  </tr>
+</table>
+
 ## **Helpful Tips & Resources**
 
 ### **Helpful Tips**
@@ -268,6 +277,7 @@ At this time, the only known issue is the spacing of the bluff (i.e., magic spel
 - Exxistance
 - <a href=https://lostinlocalization.com/>LostinLoc</a>
 - TeDNeo
+- Duralumin
 
 **Editors**
 - LewisJFC
