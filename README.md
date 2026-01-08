@@ -176,8 +176,8 @@ The XDelta patch file shipped with this release can be used with any number of D
     <td><strong><a href=https://downloads.khinsider.com/game-soundtracks/album/sggg5-original-soundtrack-2006>SEGAGAGA Soundtrack</a></strong></td>
     <td>SEGAGAGA has a vibetastic soundtrack composed by Tsuyoshi Kaneko. It <i>will</i> get stuck in your head. It is also <a href=https://www.amazon.co.jp/-/en/SGGG5-ORIGINAL-SOUNDTRACK-SEGA-Sound/dp/B000GCFJAI/ref=sr_1_1?sr=8-1>available for purchase</a> via Amazon JP.</td>
   <tr>
-    <td><strong><https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=drive_link>SGGG Papercraft</a></strong></td>
-    <td>Originally hosted on Hitmaker's website, the SGGG papercraft lets you build your own SEGA consoles from paper.</td> 
+    <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=drive_link>SGGG Papercraft</a></strong></td>
+    <td>Originally hosted on the JP SGGG website, the SGGG papercraft lets you build your own SEGA consoles from paper.</td> 
   </tr>
 </table>
 
