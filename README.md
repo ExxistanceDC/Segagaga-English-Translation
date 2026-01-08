@@ -181,7 +181,7 @@ The XDelta patch file shipped with this release can be used with any number of D
   </tr>
 </table>
 
-The following optional .DCP patches contain custom disc artwork that will display in the Dreamcast BIOS. Simply apply whatever .DCP patch you download to the game image using Universal Dreamcast Patcher.
+The following optional .DCP patches contain custom disc artwork that will display in the Dreamcast BIOS. Simply apply whatever .DCP patch you download to the patched game image using Universal Dreamcast Patcher.
 
 <table>
   <tr>
