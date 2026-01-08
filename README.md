@@ -181,13 +181,28 @@ The XDelta patch file shipped with this release can be used with any number of D
   </tr>
 </table>
 
-The following optional .dcp patches contain custom disc 0GDTEX.PVR disc artwork that will display in the Dreamcast BIOS. Simply apply the selected .dcp patch to the game image using Universal Dreamcast Patcher.
+The following optional .DCP patches contain custom disc 0GDTEX.PVR disc artwork that will display in the Dreamcast BIOS. Simply apply the selected .dcp patch to the game image using Universal Dreamcast Patcher.
 
 <table>
  <tr>
     <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>HEROES</a></strong></td>
-    <td>kadjsksdjf.</td> 
-  </tr>
+    <td><img width="156" height="156" alt="SGGG_Heroes" src="https://github.com/user-attachments/assets/1b96ccb4-9e15-4a68-b33e-33cddbdd5a9b" />
+</td> 
+    <td>Depicts the hero and heroine of Project Segagaga, Taro and Yayoi.</td>
+</tr>
+   <tr>
+    <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>128-bit</a></strong></td>
+    <td><img width="156" height="156" alt="SGGG_128bit" src="https://github.com/user-attachments/assets/6fe36767-5286-44e6-984f-5337949392e8" />
+
+</td> 
+    <td>The Dreamcast in all its 128-bit glory. Inspired by the SGGG papercraft which itself was inspired by the design of the Mega Drive.</td>
+</tr>
+</tr>
+   <tr>
+    <td><strong><a href=https://drive.google.com/file/d/11eq7V604YsSefWKNfcdR4zhCaAuWkZas/view?usp=sharing>SYSTEMS</a></strong></td>
+    <td><img width="156" height="156" alt="SGGG_Systems" src="https://github.com/user-attachments/assets/418df648-05b9-42c9-a8d9-c04d881e345e" />
+</td> 
+    <td>Showcases the legacy of SEGA hardware. Inspired by the "SGGG Sound Truck Collection" originally found on the JP SGGG website.</td>
 </table>
 
 ## **Helpful Tips & Resources**
