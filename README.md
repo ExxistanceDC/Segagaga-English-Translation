@@ -325,7 +325,7 @@ At this time, the only known issue is the spacing of the bluff (i.e., magic spel
 - **My SGGG teammates** (seriously, you all are amazing and it has been a joy to work with you!)
 - **Tez Okano and the original development team** (for putting your heart, soul, and time into making a unique game that has entranced a fanbase for 25 years.) 
 - **MoriyaMug** (who doesn’t know me at all, but whose dedication to the Samurai Shodown RPG translation shows that passion and willpower can make all the difference in a project. Thank you for bringing SSRPG to English and fulfilling a 20+ year dream of mine to play it.)
-- **Those Who Came Before** (A huge thank you to those who came before and paved the way with all the Segagaga artifacts that they left on the Internet. The 1 Ross and the SGGG Open Source Translation project, Prof_Rev and kinsukeJP of GameFAQs with their guides).
+- **Those Who Came Before** (A huge thank you to those who came before and paved the way with all the Segagaga artifacts that they left on the Internet. The 1 Ross and the SGGG Open Source Translation project, Prof_Rev and kinsukeJP of GameFAQs with their guides, whoever uploaded the SGGG Perfect Guide to IA).
   
 ## **Messages From the Team**
 
