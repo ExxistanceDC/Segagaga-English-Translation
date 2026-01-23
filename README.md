@@ -44,7 +44,6 @@ If you forget that, you can't make games.</br></div>
 1. [Patching Instructions](#Patching-Instructions)
 1. [Extras](#Extras)
 1. [Helpful Tips & Resources](#Helpful-Tips--Resources)
-1. [Known Issues](#Known-Issues)
 1. [Team Credits](#Team-Credits)
 1. [Messages From the Team](#Messages-From-the-Team)
 1. [AI Notice](#AI-Notice)
