@@ -277,17 +277,6 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
       
 </table>
 
-## **Known Issues**
-<img align="right" width="275" src="https://github.com/user-attachments/assets/f553e417-1ba1-4a74-a330-888f0dd31c7e" />
-At this time, the only known issue is the spacing of the bluff (i.e., magic spell) costs in the Battle Mode bluff menu. Once the spell cost is double digits, they are indented farther left than the single digit spell costs. We're still searching for a way to fix this, but it isn’t game-breaking.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## **Team Credits**
 
 **Project Lead**
