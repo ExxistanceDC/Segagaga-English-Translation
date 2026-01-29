@@ -167,6 +167,11 @@ The XDelta patch file shipped with this release can be used with any number of D
 1. Click **'Apply patch'** to overwrite the original track03.bin file with the patched version.
 1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>CBD9C06606B889926AA496639A309531</kbd>.
 
+### Option 2: CDI Format (Users burning to CD-R for play in a Dreamcast console) - XDelta Patch
+
+This XDelta patch is compatible with the existing CDI release that has a MD5 checksum of <kbd>0b944cb5e2e07ce817c69c2e4f864816</kbd>.
+
+
 ## **Extras**
 
 <table>
