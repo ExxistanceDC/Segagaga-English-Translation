@@ -171,7 +171,7 @@ The XDelta patch file shipped with this release can be used with any number of D
 
 <table>
   <tr>
-    <td><strong><a href=https://drive.google.com/file/d/1hrho1FihtNJyj3ZNnAJfHPTK5VFardF4/view?usp=drive_link>SEGAGAGA Instruction Manual</a></strong></td>
+    <td><strong><a href=https://drive.google.com/file/d/1J3J0TgNjFE02Kcq1n94aOkSCRx3EQ4Ir/view?usp=drive_link>SEGAGAGA Instruction Manual</a></strong></td>
     <td>A complete recreation of the Japanese instruction manual that came with the game.</td>
   </tr>
   <tr>
