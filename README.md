@@ -159,7 +159,7 @@ Grab your original SGGG discs off the shelf! The patch is offered in two flavors
 
 ### Option 2: GDI Format (Users of ODEs or Emulators) - XDelta Patch
 
-The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as Delta Patcher. It targets track03.bin of the original TOSEC GDI or Redump GDI. Ensure the source track03.bin file has an MD5 checksum of <kbd>CBD9C06606B889926AA496639A309531</kbd>.
+The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as Delta Patcher. It targets track03.bin of the original TOSEC GDI or Redump GDI. Ensure the source track03.bin file has an MD5 checksum of <kbd>346fea58ab1a55c577138c5b04319157</kbd>.
 
 1. Click the settings icon (appears as a gear), enable 'Checksum validation', and disable 'Backup original file'.
 1. Click the **'Original file'** browse icon and select the original track03.bin file.
