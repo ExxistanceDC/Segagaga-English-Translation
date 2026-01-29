@@ -274,6 +274,12 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
   <tr>
     <td><strong><a href=https://github.com/VincentNLOBJ/SGGGE>SGGGE</strong></td>
     <td>Allows for extraction and reinsertion of SGGG's textures.</td>
+  </tr> 
+   <tr>
+    <td><strong><a href=https://github.com/VincentNLOBJ/NinjaSubs>NinjaSubs</strong></td>
+    <td>Allows for the insertion of custom subtitles into scenes that otherwise did not have subs.</td>
+  </tr>    
+       
   </tr>
   
       
@@ -294,7 +300,7 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
 - Exxistance
 - <a href=https://lostinlocalization.com/>LostinLoc</a>
 - TeDNeo
-- Duralumin
+- Duralumin (SHMUP portion)
 
 **Editors**
 - LewisJFC
