@@ -150,7 +150,7 @@ Grab your original SGGG discs off the shelf! The patch is offered in two flavors
 
 1. Download <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> (if you don't already have it) 
 1. Click **'Select GDI or CUE'** to open the source disc image.
-1. Click **'Select Patch'** to locate and open the <kbd>SEGAGAGA_English_v1.0).dcp</kbd> DCP patch file.
+1. Click **'Select Patch'** to locate and open the <kbd>SEGAGAGA_English_Translation_v1.0.dcp</kbd> DCP patch file.
 1. Click **'Apply Patch'** to generate the patched GDI, which will be saved in the folder from which the application is launched.
 1. Click **'Quit'** to exit the application.
 
@@ -163,7 +163,7 @@ The XDelta patch file shipped with this release can be used with any number of D
 
 1. Click the settings icon (appears as a gear), enable 'Checksum validation', and disable 'Backup original file'.
 1. Click the **'Original file'** browse icon and select the original track03.bin file.
-1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA (English v1.0).xdelta</kbd> XDelta patch.
+1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translationv1.0.xdelta</kbd> XDelta patch.
 1. Click **'Apply patch'** to overwrite the original track03.bin file with the patched version.
 1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>CBD9C06606B889926AA496639A309531</kbd>.
 
