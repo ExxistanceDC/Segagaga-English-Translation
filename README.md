@@ -22,7 +22,7 @@ So, with utmost thanks:
 
 **megavolt85** (ASM hacking)</br>
 **MadSheep** (custom script tooling)</br>
-**VincentNL** (ASM hacking/custom texture tooling)</br>
+**VincentNL** (ASM hacking/custom tooling)</br>
 **Derek Pascarella (ateam)** (ASM hacking/custom tooling)</br></div>
 
 Continuing on with the README...no, your eyes aren't playing tricks on you. You’re about to play SEGAGAGA—the fun, quirky, RPG/game development simulator for Sega Dreamcast—in *English*. And you’re in for a truly unique and special experience.
@@ -48,6 +48,8 @@ If you forget that, you can't make games.</br></div>
 1. [Messages From the Team](#Messages-From-the-Team)
 1. [AI Notice](#AI-Notice)
 1. [Reporting Issues](#Reporting-Issues)
+1. [Known Issues](#Known-Issues)
+1. [Release Changelog](#Release-Changelog)
 
 ## **Overview**
 This patch fully translates SEGAGAGA into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even the smallest details—for example, like matching the stroke width of the original lettering in various textures.
@@ -64,6 +66,7 @@ With that said, the following changes have made been to bring the game to Englis
 - All chapter dialogue translated
 - All cutscenes subtitled in English
 - Staff credits translated
+- New English subtitles for the SHMUP portion (c/o ASM Wizard VincentNL)
 - All 500+ in-game UI textures redrawn in English
 - Title Screen/Options/Chapter Interstitial screens redrawn in English
 - All VMU save and application metadata translated in Dreamcast's BIOS menu save manager
@@ -402,7 +405,7 @@ Until then, from the bottom of my heart, I want to thank the Segagaga translatio
 
 Due to the importance of SEGAGAGA to the fan translation community, I think it’s important to disclose where AI was used in the development of this translation patch.
 
-What I call the “playtesting translation” — a base translation that allowed the artists and playtesters to get started early and understand what they were working on — was developed using a combination of DeepL and ChatGPT 4o/4.5. That translation then went through a substantial, months-long **human** translator review. I think the end product doesn’t feel “machine-translated,” but that’s ultimately for you, the player, to decide.
+What I call the “playtesting translation” — a base translation that allowed the artists and playtesters to get started early and understand what they were working on — was developed using a combination of DeepL and ChatGPT 4o/4.5. That translation then went through a substantial, months-long **human** translator review. I don't think that the end product doesn’t feel “machine-translated,” but that’s ultimately for you, the player, to decide.
 
 For the purists, we’re also offering the tools used to develop the translation, so if you are a translator who wants to do your very own translation of SEGAGAGA, you now have the means to do so! Check out the [Resources](#resources) section to get them.
 
@@ -413,3 +416,11 @@ The beauty of the fan translation community is that people are always refining a
 
 While the patch has been thoroughly tested for months and months, the universe loves a good joke, and stuff always gets through. Please report typos, mispellings, text overruns, and the like by [submitting a new issue](https://github.com/ExxistanceDC/Segagaga-English-Translation/issues/new) to this repo. 
 
+## **Known Issues**
+
+There are currently no known issues at the moment.
+
+## **Release Changelog**
+
+- **Version 1.0 (2026/x/)**
+  - Initial release.   
