@@ -165,12 +165,17 @@ The XDelta patch file shipped with this release can be used with any number of D
 1. Click the **'Original file'** browse icon and select the original track03.bin file.
 1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translationv1.0.xdelta</kbd> XDelta patch.
 1. Click **'Apply patch'** to overwrite the original track03.bin file with the patched version.
-1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>CBD9C06606B889926AA496639A309531</kbd>.
+1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>298c3b9935b2a2b1707379ea30787958</kbd>.
 
 ### Option 2: CDI Format (Users burning to CD-R for play in a Dreamcast console) - XDelta Patch
 
 This XDelta patch is compatible with the existing CDI release that has a MD5 checksum of <kbd>0b944cb5e2e07ce817c69c2e4f864816</kbd>.
 
+1. Click the settings icon (appears as a gear), enable 'Checksum validation', and disable 'Backup original file'.
+1. Click the **'Original file'** browse icon and select the original <kbd>Sega Gaga (Japan).cdi</kbd> file.
+1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translation_CDI_v1.0.xdelta</kbd> XDelta patch.
+1. Click **'Apply patch'** to overwrite the original track03.bin file with the patched version.
+1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>298c3b9935b2a2b1707379ea30787958</kbd>
 
 ## **Extras**
 
