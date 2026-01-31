@@ -421,7 +421,7 @@ Until then, from the bottom of my heart, I want to thank the Segagaga translatio
 
 Due to the importance of SEGAGAGA to the fan translation community, I think it’s important to disclose where AI was used in the development of this translation patch.
 
-What I call the “playtesting translation” — a base translation that allowed the artists and playtesters to get started early and understand what they were working on — was developed using a combination of DeepL and ChatGPT 4o/4.5. That translation then went through a substantial, months-long **human** translator review. I don't think that the end product doesn’t feel “machine-translated,” but that’s ultimately for you, the player, to decide.
+What I call the “playtesting translation” — a base translation that allowed the artists and playtesters to get started early and understand what they were working on — was developed using a combination of DeepL and ChatGPT 4o/4.5. That translation then went through a substantial, months-long **human** translator review. I don't think that the end product feels “machine-translated,” but that’s ultimately for you, the player, to judge.
 
 For the purists, we’re also offering the tools used to develop the translation, so if you are a translator who wants to do your very own translation of SEGAGAGA, you now have the means to do so! Check out the [Resources](#resources) section to get them.
 
