@@ -137,9 +137,9 @@ With that said, the following changes have made been to bring the game to Englis
 
 ## **Patching Instructions**
 
-Grab your original SGGG discs off the shelf! The patch is offered in three flavors: a Universal Dreamcast Patcher .DCP file (the easiest option) and  an xdelta .xdelta file. 
+Grab your original SGGG discs off the shelf! The patch is offered in three varients. Two GDI options (a Universal Dreamcast Patcher .dcp patch file or a .xdelta file) and a CDI option (provided as an .xdelta file). 
 
-**--> Important! <--**
+**--> Important! Read Before Patching! <--**
 - Tested with <kbd>SGGG - Segagaga v1.022 (2001)(Sega)(JP)(!)</kbd> and <kbd>SGGG - Segagaga (Japan)</kbd> (aka TOSEC and Redump releases)
 - **DO NOT USE** "v2.000" or "Rev A". Due to minor cut content, the patch was designed around v1.022 and will **NOT** work with v2.000.
 - It's highly recommended that you start the game with a **NEW** save file, not one carried over from a Japanese copy. Sorry to those who've played the Japanese original, but with all the changes to the main binary, it's better to start from scratch to avoid issues. 
@@ -170,6 +170,8 @@ The XDelta patch file shipped with this release can be used with any number of D
 ### Option 3: CDI Format (Users burning to CD-R for play in a Dreamcast console) - XDelta Patch
 
 This XDelta patch is compatible with the existing CDI release that has a MD5 checksum of <kbd>0b944cb5e2e07ce817c69c2e4f864816</kbd>.
+
+Note that the CDI release has reduced movie quality so that it can fit onto a CD-R. The GDI options above are the ideal way to play.
 
 1. Click the settings icon (appears as a gear), enable 'Checksum validation', and disable 'Backup original file'.
 1. Click the **'Original file'** browse icon and select the original <kbd>Sega Gaga (Japan).cdi</kbd> file.
