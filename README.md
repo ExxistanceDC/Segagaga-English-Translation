@@ -331,6 +331,9 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
 - Patrick Smith (Sixfortyfive)
 - Exxistance
 - zeed64
+- Danthrax
+- rasputin3000
+
 
 **Manual Recreation**
 - Exxistance
