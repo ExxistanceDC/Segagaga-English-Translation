@@ -69,7 +69,7 @@ With that said, the following changes have made been to bring the game to Englis
 - Title Screen/Options/Chapter Interstitial screens redrawn in English
 - All VMU save and application metadata translated in Dreamcast's BIOS menu save manager
 - 25th Anniversary celebration added to opening splash screen
-- New 25th Anniversary VMU icon during gameplay
+- Commemorative 25th Anniversary VMU icon during gameplay
 - Original instruction manual translated and redrawn in faithful style to the original
 
 ## **About the Game**
@@ -135,12 +135,12 @@ With that said, the following changes have made been to bring the game to Englis
 
 ## **Patching Instructions**
 
-Grab your original SGGG discs off the shelf! The patch is offered in three varients. Two GDI options (a Universal Dreamcast Patcher .dcp patch file or a .xdelta file) and a CDI option (provided as an .xdelta file). 
+Grab your original SGGG discs off the shelf! The patch is offered in three varients. Two GDI options (a Universal Dreamcast Patcher .dcp patch file or an .xdelta file) and a CDI option (provided as an .xdelta file). 
 
 **--> Important! Read Before Patching! <--**
 - Tested with <kbd>SGGG - Segagaga v1.022 (2001)(Sega)(JP)(!)</kbd> and <kbd>SGGG - Segagaga (Japan)</kbd> (aka TOSEC and Redump releases)
 - **DO NOT USE** "v2.000" or "Rev A". Due to minor cut content, the patch was designed around v1.022 and will **NOT** work with v2.000.
-- It's highly recommended that you start the game with a **NEW** save file, not one carried over from a Japanese copy. Sorry to those who've played the Japanese original, but with all the changes to the main binary, it's better to start from scratch to avoid issues. 
+- It's highly recommended that you start the game with a **NEW** save file, not one carried over from a Japanese copy. Sorry to those who've played the Japanese original, but with all the changes to the main binary, it's better to start from scratch to avoid potential issues. 
 
 
 ### Option 1: Universal Dreamcast Patcher GDI Format (Users of ODEs or Emulators) - DCP Patch
@@ -440,7 +440,7 @@ While the patch has been thoroughly tested for months and months, the universe l
 
 ## **Known Issues**
 
-There are currently no known issues at the moment.
+There are currently no known issues.
 
 ## **Release Changelog**
 
