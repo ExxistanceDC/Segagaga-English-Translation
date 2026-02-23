@@ -177,7 +177,7 @@ Note that the CDI release has reduced movie quality so that it can fit onto a CD
 1. Click the **'Original file'** browse icon and select the original <kbd>Sega Gaga (Japan).cdi</kbd> file.
 1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translation_CDI_v1.0.xdelta</kbd> XDelta patch.
 1. Click **'Apply patch'** to overwrite the original track03.bin file with the patched version.
-1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>298c3b9935b2a2b1707379ea30787958</kbd>
+1. Verify that the patched .cdi file has an MD5 checksum of <kbd>298c3b9935b2a2b1707379ea30787958</kbd>
 
 ## **Extras**
 
@@ -266,6 +266,9 @@ Since we don’t have access to the game’s source code, tracing and converting
     <td><strong><a href=https://tcrf.net/Segagaga>SEGAGAGA TCRF Entry</strong></td>
     <td>A collection of interesting content that was cut from the final game but discovered in the game files.</td>
   </tr>
+  <tr>
+    <td><strong><a href=https://32bits.substack.com/p/under-the-microscope-segagaga-dreamcast>Debug Modes</strong></td>
+    <td>SEGAGAGA has a couple interesting debug modes. Bo Bayles has detailed how to access them in this Rings of Saturn article.</strong></td>      
   <tr>
     <td><strong><a href=https://www.huga-studio.com/>HUGA Studio</a></strong></td>
     <td>If you love the vibe of SEGAGAGA, be sure to check out more of producer Tez Okano's work at his newest venture, HUGA Studio.    <br>His latest game, <a href=https://store.steampowered.com/app/3473890/THE_GIRL_FROM_GUNMA_Kai/>The Girl from GUNMA Kai</a>, is a love letter to SHMUPS and the MSX!</td>
