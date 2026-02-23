@@ -54,9 +54,7 @@ If you forget that, you can't make games.</br></div>
 ## **Overview**
 This patch fully translates SEGAGAGA into English. Our aim was to produce a faithful translation of both the source text and the original art. Care and attention have been paid to even the smallest details—for example, like matching the stroke width of the original lettering in various textures.
 
-With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're guiding Taro Sega through his daily life at SoJ and not SoA. Thus, certain things remain in Japanese, like small item textures, or the background billboards in Akihabara. Generally, though, while *you* may be reading English as you play, Taro and most of the characters are Japanese.
-
-You'll encounter many things that are specific to Japanese culture, so rather than shoehorning those into Western concepts, we've translated them as-is. Use it as an opportunity to learn...after all, there's a whole wide internet out there (and hours and hours of video content) for you to learn about topics you may come across in the game.
+With this in mind, SGGG is a uniquely Japanese game, and we want the verisimilitude to make it feel like you're guiding Taro Sega through his daily life at SoJ and not SoA. Thus, certain small things remain in Japanese, like the background billboards of Akihabara. You'll encounter many things that are specific to Japanese culture, so rather than shoehorning those into Western concepts, we've translated them as-is. Use it as an opportunity to learn...after all, there's a whole wide internet out there (and hours and hours of video content) for you to learn about topics you may come across in the game.
 
 Savor the experience!
 
@@ -315,7 +313,7 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
 - Exxistance
 - <a href=https://lostinlocalization.com/>LostinLoc</a>
 - TeDNeo
-- Duralumin (SHMUP portion)
+- Duralumin
 
 **Editors**
 - LewisJFC
