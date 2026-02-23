@@ -21,7 +21,7 @@ So, with utmost thanks:
 **DREAMCAST HACKING HEROES**
 
 **megavolt85** (ASM hacking)</br>
-**MadSheep** (custom script tooling)</br>
+**MadSheep** (ASM hacking/custom script tooling)</br>
 **VincentNL** (ASM hacking/custom tooling)</br>
 **Derek Pascarella (ateam)** (ASM hacking/custom tooling)</br></div>
 
@@ -444,5 +444,5 @@ There are currently no known issues at the moment.
 
 ## **Release Changelog**
 
-- **Version 1.0 (2026/x/)**
+- **Version 1.0 (02/27/2026)**
   - Initial release.   
