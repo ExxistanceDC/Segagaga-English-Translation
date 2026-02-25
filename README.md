@@ -143,7 +143,7 @@ Grab your original SGGG discs off the shelf! The patch is offered in three varie
 - It's highly recommended that you start the game with a **NEW** save file, not one carried over from a Japanese copy. Sorry to those who've played the Japanese original, but with all the changes to the main binary, it's better to start from scratch to avoid potential issues. 
 
 
-### Option 1: Universal Dreamcast Patcher GDI Format (Users of ODEs or Emulators) - DCP Patch
+### Option 1 (Easy Mode): Universal Dreamcast Patcher GDI Format (Users of ODEs or Emulators) - DCP Patch
 <img align="right" width="275" src="https://github.com/user-attachments/assets/8b9ebec7-4b92-45fb-bf2f-01034a56dacc">
 
 1. Download <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> (if you don't already have it) 
@@ -174,7 +174,7 @@ Note that the CDI release has reduced movie quality so that it can fit onto a CD
 1. Click the settings icon (appears as a gear), enable 'Checksum validation', and disable 'Backup original file'.
 1. Click the **'Original file'** browse icon and select the original <kbd>Sega Gaga (Japan).cdi</kbd> file.
 1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translation_CDI_v1.0.xdelta</kbd> XDelta patch.
-1. Click **'Apply patch'** to generate the new .cdi file (file size will be around 691 MB)
+1. Click **'Apply patch'** to generate the new .cdi file (the resulting file size will be around 691 MB)
 
 ## **Extras**
 
