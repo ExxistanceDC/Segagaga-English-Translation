@@ -330,10 +330,9 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
 **QA**
 - Patrick Smith (Sixfortyfive)
 - Exxistance
-- zeed64
 - Danthrax
 - rasputin3000
-
+- zeed64
 
 **Manual Recreation**
 - Exxistance
