@@ -174,7 +174,7 @@ Note that the CDI release has reduced movie quality so that it can fit onto a CD
 1. Click the settings icon (appears as a gear), enable 'Checksum validation', and disable 'Backup original file'.
 1. Click the **'Original file'** browse icon and select the original <kbd>Sega Gaga (Japan).cdi</kbd> file.
 1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translation_CDI_v1.0.xdelta</kbd> XDelta patch.
-1. Click **'Apply patch'** to generate the new .cdi file (the resulting file size will be around 691 MB)
+1. Click **'Apply patch'** to generate the new .cdi file (the resulting file size will be around 677 MB)
 
 ## **Extras**
 
