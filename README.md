@@ -280,7 +280,7 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
     <td>Allows for the updating of game text found in the main binary (1_SGGG.BIN).</td>
   </tr>
   <tr>
-    <td><strong><a href=https://github.com/9madsheep/SGGG_MES/releases/tag/main)>SGGG_MES</strong></td>
+    <td><strong><a href=https://github.com/9madsheep/SGGG_MES/releases/tag/main>SGGG_MES</strong></td>
     <td>Allows for updating text found in SGGG's MES files (pre and post-chapter dialogue scenes).</td>
   </tr>
   <tr>
