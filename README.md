@@ -247,10 +247,10 @@ Since we don’t have access to the game’s source code, tracing and converting
 </table>
 </div>
  
- - SEGAGAGA has multiple endings and a lot of unlockable archive content that's impossible to acquire in a single playthrough. If you intend to see all of it, then expect to play through the game multiple times. If you're not a completionist but do want to see the true ending, then you'll need to acquire 100% market share. (c/o Sixfortyfive)
-- On your first playthrough, don't stress yourself too much when it comes to acquiring 100% market share. It is possible to achieve, but doing so requires a fair bit of knowledge of how the simulation works, which isn't likely to be quickly mastered by a first-time player. Just enjoy the story and experiment a bit in the game dev simulation to learn what you can, then apply what you learn on a subsequent playthrough if you want to try again for 100%. (c/o Sixfortyfive)
-- The most important thing to focus on for the first play is to simply keep the company afloat. Make sure that you don't completely run out of money and that your market share never drops all the way to 0%. If you can just survive the three-year SGGG project cycle, then it counts as a "clear," and successfully clearing the game will grant you extra money and other perks on your next playthrough, which will make achieving 100% share much easier. (c/o Sixfortyfive)
-- Wisely handling the company's finances is what requires the most strategy, as running out of money is what poses the biggest threat of a Game Over to a first-time player. In the very early phases, make sure that you're not spending superfluously and doing things like hiring staff at very high salaries or keeping far more staff on your research bench than what you need. Once you've released a game or two and have hopefully built up a little bit of a financial cushion, you can start spending on extras, such as equipment upgrades to develop your next games more quickly or advertising campaigns to make them sell better. (c/o Sixfortyfive)
+ - SEGAGAGA has multiple endings and a lot of unlockable archive content that's impossible to acquire in a single playthrough. If you intend to see all of it, then expect to play through the game multiple times. If you're not a completionist but do want to see the true ending, then you'll need to acquire 100% market share. 
+- On your first playthrough, don't stress yourself too much when it comes to acquiring 100% market share. It is possible to achieve, but doing so requires a fair bit of knowledge of how the simulation works, which isn't likely to be quickly mastered by a first-time player. Just enjoy the story and experiment a bit in the game dev simulation to learn what you can, then apply what you learn on a subsequent playthrough if you want to try again for 100%. 
+- The most important thing to focus on for the first play is to simply keep the company afloat. Make sure that you don't completely run out of money and that your market share never drops all the way to 0%. If you can just survive the three-year SGGG project cycle, then it counts as a "clear," and successfully clearing the game will grant you extra money and other perks on your next playthrough, which will make achieving 100% share much easier. 
+- Wisely handling the company's finances is what requires the most strategy, as running out of money is what poses the biggest threat of a Game Over to a first-time player. In the very early phases, make sure that you're not spending superfluously and doing things like hiring staff at very high salaries or keeping far more staff on your research bench than what you need. Once you've released a game or two and have hopefully built up a little bit of a financial cushion, you can start spending on extras, such as equipment upgrades to develop your next games more quickly or advertising campaigns to make them sell better. 
 
 ### Resources
 
@@ -315,7 +315,7 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
 - Duralumin
 
 **Editors**
-- Patrick Smith (Sixfortyfive)
+- Exxistance
 
 **Texture Artists**
 - Exxistance
@@ -327,7 +327,6 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
 - Exxistance
 
 **QA**
-- Patrick Smith (Sixfortyfive)
 - Exxistance
 - Danthrax
 - rasputin3000
@@ -398,28 +397,6 @@ There are a few minor text alignment issues here and there, as well as a limitat
 Until then, from the bottom of my heart, I want to thank the Segagaga translation patch team, and I hope all of you, the players, enjoy experiencing it in English for the very first time.
 
 </blockquote>
-
-**Patrick Smith (Sixfortyfive)**
-
-> If you've never heard of Segagaga, it's a "Sega Simulation" for Dreamcast in which you play the role of a teenager who has been tasked to lead a floundering Sega to market dominance over their rival company Dogma, released at almost the exact same time that the real Sega formally announced their impending exit from the video game console market. It's a pretty unique concept for a video game, but when you consider that a lot of video game premises can be distilled into "young hero on a solo quest of impossible odds," I suppose it'd be more accurate to say that it's a uniquely fresh spin on a tried and true formula.
->
-> It's hard to describe SGGG in broad terms. I could say that it's one part business sim, one part industry commentary, one part RPG, and one part anime shitpost, and all of that is true to some extent, but it doesn't get across the appeal. There's also not much to the "game" part of this game. The RPG part doesn't exactly have a ton of depth in strategy or resource management; the development simulation part has more to break down and optimize but becomes rather flowcharty once you do.
->
-> Its appeal is laser-focused on those with an appreciation for both Sega and game dev, and not in a memberberries or romanticized way. While the player character himself is a stereotypically idealistic and optimistic hero, there's a level of frankness on display throughout the game that I think does a pretty good job of conveying the mood at the company at the time. It's clear that everybody understood that everything was on fire, but SGGG simultaneously celebrates and jokes about it.
->
-> Developers themselves are portrayed as hideous creatures twisted by years of crunch, some of whom have been scapegoated for failed projects and cast aside. A whole chapter is a thinly-veiled Shenmue allegory, portraying a studio that's fallen into chaos over the course of developing their visionary director's monstrously over-budget Ultra Game. Shade is openly thrown on the Saturn's bewildering hardware design in a throwaway comment that you will not pick up on unless you fit *precisely* within this game's extremely narrow target audience.
->
-> At the same time, there's plenty of reverence for Sega's body of work and both the people who make and play these games. Most of the games you create in the sim portion are actual Sega games whose info can be viewed in a gallery afterward, not unlike the trophy collection in Super Smash Bros Melee, which came out later that same year. I think it's interesting to compare and contrast how 2001 Nintendo looks toward its legacy versus 2001 Sega. Smash Bros' reverence for its featured properties is typical of Nintendo at large: thorough, polished, and sanitized. Its trophy gallery often serves as a proper museum.
->
-> SGGG's game archives, by contrast, are slapdash and jokey, often punctuated by curt remarks from SGGG's sole director instead of more formal prose filtered through corporate editors. My personal favorite of these is the blurb written for the Game Gear title Phantasy Star Adventure. Apparently, Okano had at first confused this game with the Mega Drive Phantasy Star II text adventures, a higher-up caught this error during SGGG's development, and rather than actually correct this blurb to a proper comment about PSA, Okano instead just used this space in SGGG to compliment the person who caught his error. That's how loosely SGGG plays with its material and how much it expects its audience to be in on the joke, but despite that, there's still a genuine appreciation expressed toward the plethora of deep cuts on display.
->
-> SGGG feels like a doujin game released by a major publisher. There's a peak "Late Night with David Letterman" level of IDGAF on display in the ways that it disregards presentation and conventions. Okano developed much of the game in secret before making a formal pitch for it to his bosses, who at first brushed him off because nobody thought he was serious. When he insisted, his superiors resisted because they felt that it didn't put Sega in a good light. When Okano further insisted on the grounds that "this will cost less than 0.01 Shenmues," they finally relented. Well, probably due to a mix of that and a "what the hell else do we have to lose" attitude.
->
-> I think it's pretty matter-of-fact to argue that no other company would make a game like SGGG, simply because no other company of Sega's stature ever has. Nintendo would never make something this frank and unguarded about its own brand. Sony rarely seems to want to acknowledge anything older than The Last of Us. And by coincidence, Microsoft currently finds themselves in a position where they are also clearly rapidly scaling down their presence in the console market, but I just cannot imagine anyone at that company caring enough about its culture or mission to produce a comparable work.
->
-> SGGG is a unique contradiction of a game. It's a work that simultaneously shines a light on an ugly side of game dev while also celebrating the art achieved through that adversity. There's something very human in wearing one's imperfections and failings on their sleeve like this and brandishing it for all the world to see. It's for that reason that I think the game resonates with a very particular subset of Sega fans; it thoroughly embodies the Dreamcast's experimental and niche ethos in a manner that comes across equal parts pride and regret.
->
-> I came to this specific project late, after most of the heavy lifting was already done, and my contributions were mostly as a tester and editor. I'm one of presumably very few foreigners who powered through this game to 100% completion 20 years ago without even being able to read it, so I think I was most useful in just breaking the game down to the rest of the team for testing purposes, making sure that specific game mechanics are properly explained and that a number of specific Sega references are properly conveyed. That whole endgame sequence hits different when you don't know that it's coming and can only barely comprehend what's going on, and I only hope that you enjoy it half as much as I did. Hats off to everybody on the translation team for finally checking off a game that heretofore seemed to have been forever cursed to doomed and abandoned projects.
 
 ## **AI Notice**
 
