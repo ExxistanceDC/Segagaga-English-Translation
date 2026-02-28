@@ -163,7 +163,7 @@ The XDelta patch file shipped with this release can be used with any number of D
 1. Click the **'Original file'** browse icon and select the original track03.bin file.
 1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translationv1.0.xdelta</kbd> XDelta patch.
 1. Click **'Apply patch'** to overwrite the original track03.bin file with the patched version.
-1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>298c3b9935b2a2b1707379ea30787958</kbd>.
+1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>bc5e48fbaf01c152854427ae18ecb3ea</kbd>.
 
 ### Option 3: CDI Format (Users burning to CD-R for play in a Dreamcast console) - XDelta Patch
 
