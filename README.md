@@ -290,7 +290,13 @@ Want to do your own translation of SEGAGAGA? All the tools are now available:
    <tr>
     <td><strong><a href=https://github.com/VincentNLOBJ/NinjaSubs>NinjaSubs</strong></td>
     <td>Allows for the insertion of custom subtitles into scenes that otherwise did not have subs.</td>
-  </tr>    
+  </tr>
+    </tr> 
+   <tr>
+    <td><strong>Font Sheet Location</td>
+    <td>For translation teams that need custom characters for their languages, the game's font sheet can easily be viewed and edited in Crystal Tile 2 at the following address in 1_SGGG.BIN.<img width="600" height="826" alt="image" src="https://github.com/user-attachments/assets/f6fa8890-d28c-477a-818a-84fd3980a274" />
+ </td>
+  </tr>        
        
   </tr>
   
