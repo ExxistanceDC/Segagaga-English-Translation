@@ -167,7 +167,7 @@ The XDelta patch file shipped with this release can be used with any number of D
 
 ### Option 3: CDI Format (Users burning to CD-R for play in a Dreamcast console) - XDelta Patch
 
-This XDelta patch is compatible with the existing CDI release that has a MD5 checksum of <kbd>0b944cb5e2e07ce817c69c2e4f864816</kbd>.
+This XDelta patch is compatible with the existing CDI release that has a MD5 checksum of <kbd>2712f4ddce1a6b358bd7904d4435052a</kbd>.
 
 Note that the CDI release has reduced movie quality so that it can fit onto a CD-R. The GDI options above are the ideal way to play.
 
