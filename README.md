@@ -425,5 +425,16 @@ There are currently no known issues.
 
 ## **Release Changelog**
 
+- **Version 1.0.1 (03/5/2026)**
+  - Fixed Bugs:
+    - Fixed malformed pointer that caused the wrong text string to appear after the release score dialogue for games released in August and December
+    - Fixed 14 spelling errors
+    - Fixed untranslated texture in uhhh...without spoilers...one of the shops
+
+  - Translation Improvements:
+    - Fixed “Marry” SIMEVT event variable translations with updated and more readable “playful censorship” names
+    - Updated item name and matching texture from “Polyvitamin E” to “Polivitan E” to match play on words of IRL brand.
+    - Various other minor nips and tucks.  
+
 - **Version 1.0 (02/27/2026)**
   - Initial release.   
