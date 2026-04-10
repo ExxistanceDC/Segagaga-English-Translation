@@ -148,7 +148,7 @@ Grab your original SGGG discs off the shelf! The patch is offered in three varie
 
 1. Download <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> (if you don't already have it) 
 1. Click **'Select GDI or CUE'** to open the source disc image.
-1. Click **'Select Patch'** to locate and open the <kbd>SEGAGAGA_English_Translation_v1.0.dcp</kbd> DCP patch file.
+1. Click **'Select Patch'** to locate and open the <kbd>SEGAGAGA_English_Translation_v1.0.2.dcp</kbd> DCP patch file.
 1. Click **'Apply Patch'** to generate the patched GDI, which will be saved in the folder from which the application is launched.
 1. Click **'Quit'** to exit the application.
 
@@ -161,9 +161,9 @@ The XDelta patch file shipped with this release can be used with any number of D
 
 1. Click the settings icon (appears as a gear), enable 'Checksum validation', and disable 'Backup original file'.
 1. Click the **'Original file'** browse icon and select the original track03.bin file.
-1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translationv1.0.xdelta</kbd> XDelta patch.
+1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translation_v1.0.2.xdelta</kbd> XDelta patch.
 1. Click **'Apply patch'** to overwrite the original track03.bin file with the patched version.
-1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>bc5e48fbaf01c152854427ae18ecb3ea</kbd>.
+1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>f4a730e75b2e95482fa2f8d57865e1f2</kbd>.
 
 ### Option 3: CDI Format (Users burning to CD-R for play in a Dreamcast console) - XDelta Patch
 
@@ -173,7 +173,7 @@ Note that the CDI release has reduced movie quality so that it can fit onto a CD
 
 1. Click the settings icon (appears as a gear), enable 'Checksum validation', and disable 'Backup original file'.
 1. Click the **'Original file'** browse icon and select the original <kbd>Sega Gaga (Japan).cdi</kbd> file.
-1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translation_CDI_v1.0.xdelta</kbd> XDelta patch.
+1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translation_CDI_v1.0.2.xdelta</kbd> XDelta patch.
 1. Click **'Apply patch'** to generate the new .cdi file (the resulting file size will be around 677 MB)
 
 ## **Extras**
@@ -425,12 +425,21 @@ There are currently no known issues.
 
 ## **Release Changelog**
 
+- **Version 1.0.2 (04/10/2026)**
+  - Technical Fixes:
+    - PAL 60 Hz support
+      - Courtesy of ateam, this release removes the 50 hz cap and black borders for users on PAL consoles when using cables other than the VGA cable 
+    - Fixed text overrun in SIMEVT when attempting to hire an outsourcing contractor that already has a project in-progress
+  - Translation:
+    - Corrected typo of “Cool” in NEWS11.SFD
+    - Fixed R&D C “Safety” banner and accompanying battle background textures
+    - Fixed several spelling errors in Archives game descriptions and MES files 
+
 - **Version 1.0.1 (03/5/2026)**
   - Fixed Bugs:
     - Fixed malformed pointer that caused the wrong text string to appear after the release score dialogue for games released in August and December
     - Fixed 14 spelling errors
     - Fixed untranslated texture in uhhh...without spoilers...one of the shops
-
   - Translation Improvements:
     - Fixed “Marry” SIMEVT event variable translations with updated and more readable “playful censorship” names
     - Updated item name and matching texture from “Polyvitamin E” to “Polivitan E” to match play on words of IRL brand.
