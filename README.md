@@ -225,18 +225,18 @@ The following optional .DCP patches contain custom disc artwork that will displa
 
 ### **Helpful Tips**
 
- - All currency in SEGAGAGA is denominated in yen (?). Once your development budgets become sufficiently large, you'll start to encounter number formats that have no direct equivalent in English. For example, Japanese uses ? to represent “10,000,” and ? to represent “100,000,000.” The closest English analogues would be something like “K” for thousand or “MM” for million, but there’s no true one-to-one match.
-Since we don’t have access to the game’s source code, tracing and converting every internal calculation into an English-style numbering system wasn’t feasible. Instead, we created a simple letter-based notation to help you interpret yen amounts. For example, if you see a value such as 10T200?, that corresponds to 100,200 yen. So, remember:
+ - All currency in SEGAGAGA is denominated in yen (¥). Once your development budgets become sufficiently large, you'll start to encounter number formats that have no direct equivalent in English. For example, Japanese uses 万 to represent “10,000,” and 億 to represent “100,000,000.” The closest English analogues would be something like “K” for thousand or “MM” for million, but there’s no true one-to-one match.
+Since we don’t have access to the game’s source code, tracing and converting every internal calculation into an English-style numbering system wasn’t feasible. Instead, we created a simple letter-based notation to help you interpret yen amounts. For example, if you see a value such as 10T200¥, that corresponds to 100,200 yen. So, remember:
 
 <div align="center">
 <table>
 <tr>
   <td><strong>T</strong></td>
-  <td>10,000 ?</td>
+  <td>10,000 ¥</td>
 </tr>
 <tr>
   <td><strong>M</strong></td>
-  <td>100,000,000 ?</td>
+  <td>100,000,000 ¥</td>
 </tr>
 </table>
 </div>
