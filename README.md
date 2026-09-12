@@ -78,7 +78,7 @@ With that said, the following changes have made been to bring the game to Englis
 <table>
   <tr>
     <td><strong>Original Title</strong></td>
-    <td>Segagaga (セガガガ)</td>
+    <td>Segagaga (????)</td>
   </tr>
   <tr>
     <td><strong>Localized Title</strong></td>
@@ -135,7 +135,9 @@ With that said, the following changes have made been to bring the game to Englis
 
 ## **Patching Instructions**
 
-Grab your original SGGG discs off the shelf! The patch is offered in three varients. Two GDI options (a Universal Dreamcast Patcher .dcp patch file or an .xdelta file) and a CDI option (provided as an .xdelta file). 
+Grab your original SGGG discs off the shelf! As of v1.1, the patch is offered in two varients: a Universal Dreamcast Patcher .dcp patch file for the GDI version or a CDI option (provided as an .xdelta file). 
+
+(Previously, there was an XDelta GDI option, but now that ateam has revamped Universal Dreamcast Patcher to support Linux & macOS, this is the recommended way to patch the GDI.) 
 
 **--> Important! Read Before Patching! <--**
 - Tested with <kbd>SGGG - Segagaga v1.022 (2001)(Sega)(JP)(!)</kbd> and <kbd>SGGG - Segagaga (Japan)</kbd> (aka TOSEC and Redump releases)
@@ -147,33 +149,25 @@ Grab your original SGGG discs off the shelf! The patch is offered in three varie
 <img align="right" width="275" src="https://github.com/user-attachments/assets/8b9ebec7-4b92-45fb-bf2f-01034a56dacc">
 
 1. Download <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> (if you don't already have it) 
-1. Click **'Select GDI or CUE'** to open the source disc image.
-1. Click **'Select Patch'** to locate and open the <kbd>SEGAGAGA_English_Translation_v1.0.2.dcp</kbd> DCP patch file.
+1. Select the **'Apply Patch'** tab
+1. Click **'Source disc image'** to open the source disc image.
+1. Click **'DCP patch file'** to locate and open the <kbd>SEGAGAGA_English_Translation_v1.1.dcp</kbd> DCP patch file.
+1. Click **'Patched disc image output folder'** to select where you want to save the patched GDI
 1. Click **'Apply Patch'** to generate the patched GDI, which will be saved in the folder from which the application is launched.
-1. Click **'Quit'** to exit the application.
+1. Once patching it complete, you can close the application. (Or just sit and admire how beautiful the v2.0 version looks.)
 
 <br>
 <br>
 
-### Option 2: GDI Format (Users of ODEs or Emulators) - XDelta Patch
-
-The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as Delta Patcher. It targets track03.bin of the original TOSEC GDI or Redump GDI (MD5 checksum <kbd>cbd9c06606b889926aa496639a309531</kbd>). 
-
-1. Click the settings icon (appears as a gear), enable 'Checksum validation', and disable 'Backup original file'.
-1. Click the **'Original file'** browse icon and select the original track03.bin file.
-1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translation_v1.0.2.xdelta</kbd> XDelta patch.
-1. Click **'Apply patch'** to overwrite the original track03.bin file with the patched version.
-1. Verify that the patched track03.bin file has an MD5 checksum of <kbd>f4a730e75b2e95482fa2f8d57865e1f2</kbd>.
-
-### Option 3: CDI Format (Users burning to CD-R for play in a Dreamcast console) - XDelta Patch
+### Option 2: CDI Format (Users burning to CD-R for play in a Dreamcast console) - XDelta Patch
 
 This XDelta patch is compatible with the existing CDI release that has a MD5 checksum of <kbd>2712f4ddce1a6b358bd7904d4435052a</kbd>.
 
-Note that the CDI release has reduced movie quality so that it can fit onto a CD-R. The GDI options above are the ideal way to play.
+Note that the CDI release has reduced movie quality so that it can fit onto a CD-R. The GDI version is the ideal way to play.
 
 1. Click the settings icon (appears as a gear), enable 'Checksum validation', and disable 'Backup original file'.
 1. Click the **'Original file'** browse icon and select the original <kbd>Sega Gaga (Japan).cdi</kbd> file.
-1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translation_CDI_v1.0.2.xdelta</kbd> XDelta patch.
+1. Click the **'XDelta patch'** browse icon and select the <kbd>SEGAGAGA_English_Translation_CDI_v1.1.xdelta</kbd> XDelta patch.
 1. Click **'Apply patch'** to generate the new .cdi file (the resulting file size will be around 677 MB)
 
 ## **Extras**
@@ -231,18 +225,18 @@ The following optional .DCP patches contain custom disc artwork that will displa
 
 ### **Helpful Tips**
 
- - All currency in SEGAGAGA is denominated in yen (¥). Once your development budgets become sufficiently large, you'll start to encounter number formats that have no direct equivalent in English. For example, Japanese uses 万 to represent “10,000,” and 億 to represent “100,000,000.” The closest English analogues would be something like “K” for thousand or “MM” for million, but there’s no true one-to-one match.
-Since we don’t have access to the game’s source code, tracing and converting every internal calculation into an English-style numbering system wasn’t feasible. Instead, we created a simple letter-based notation to help you interpret yen amounts. For example, if you see a value such as 10T200¥, that corresponds to 100,200 yen. So, remember:
+ - All currency in SEGAGAGA is denominated in yen (?). Once your development budgets become sufficiently large, you'll start to encounter number formats that have no direct equivalent in English. For example, Japanese uses ? to represent “10,000,” and ? to represent “100,000,000.” The closest English analogues would be something like “K” for thousand or “MM” for million, but there’s no true one-to-one match.
+Since we don’t have access to the game’s source code, tracing and converting every internal calculation into an English-style numbering system wasn’t feasible. Instead, we created a simple letter-based notation to help you interpret yen amounts. For example, if you see a value such as 10T200?, that corresponds to 100,200 yen. So, remember:
 
 <div align="center">
 <table>
 <tr>
   <td><strong>T</strong></td>
-  <td>10,000 ¥</td>
+  <td>10,000 ?</td>
 </tr>
 <tr>
   <td><strong>M</strong></td>
-  <td>100,000,000 ¥</td>
+  <td>100,000,000 ?</td>
 </tr>
 </table>
 </div>
@@ -424,6 +418,21 @@ While the patch has been thoroughly tested for months and months, the universe l
 There are currently no known issues.
 
 ## **Release Changelog**
+
+- **Version 1.1 (9/xx/2026)**
+  - **NEW!** Added debug mode functionality via new controller combo: **Hold R + X**, then **press B**. The same combo returns you to the game. See <a href="https://tcrf.net/Segagaga#Debug_Mode">SGGG's TCRF.net entry</a> for all that you can do!
+  - Technical Fixes:
+	  - Fixed text overrun during Chapter 3 game pitch (reported by a player--thank you!)
+	  - Fixed bug in Negotiation minigame that may reward the wrong answer
+	  - Fixed slight centering issue for some Negotiation minigame strings
+  - Over 250 spelling, punctuation, and grammar fixes, including:
+    - "flunctuated" -> fluctuated, "merchandise have" -> merchandise has, "monsters yourself" -> monsters yourselves, etc.
+    - fixed several missing variables that were dropping values, for example, the SIMEVT "Scout" event where the scout should've introduced themselves by name. 
+  - Added new pre-rendered "Units Sold" and "Total Sales" text that display upon releasing a game, replacing the previous solution of overlaying English on top of the existing kanji.
+<div align="center"><img width="175" src="https://github.com/user-attachments/assets/0bee642d-8266-4e9e-98a2-a0d1a6bbdba4" /></div>
+
+
+
 
 - **Version 1.0.2 (04/10/2026)**
   - Technical Fixes:
