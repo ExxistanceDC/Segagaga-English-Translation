@@ -419,7 +419,7 @@ There are currently no known issues.
 
 ## **Release Changelog**
 
-- **Version 1.1 (9/xx/2026)**
+- **Version 1.1 (9/12/2026)**
   - **NEW!** Added debug mode functionality via new controller combo: **Hold R + X**, then **press B**. The same combo returns you to the game. See <a href="https://tcrf.net/Segagaga#Debug_Mode">SGGG's TCRF.net entry</a> for all that you can do!
   - Technical Fixes:
 	  - Fixed text overrun during Chapter 3 game pitch (reported by a player--thank you!)
