@@ -135,7 +135,7 @@ With that said, the following changes have made been to bring the game to Englis
 
 ## **Patching Instructions**
 
-Grab your original SGGG discs off the shelf! As of v1.1, the patch is offered in two varients: a Universal Dreamcast Patcher .dcp patch file for the GDI version or a CDI option (provided as an .xdelta file). 
+Grab your original SGGG discs off the shelf! As of v1.1, the patch is offered in two variants: a Universal Dreamcast Patcher .dcp patch file for the GDI version or a CDI option (provided as an .xdelta file). 
 
 (Previously, there was an XDelta GDI option, but now that ateam has revamped Universal Dreamcast Patcher to support Linux & macOS, this is the recommended way to patch the GDI.) 
 
